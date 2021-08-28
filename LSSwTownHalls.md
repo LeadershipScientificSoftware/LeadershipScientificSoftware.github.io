@@ -2,13 +2,13 @@
 
 ### Background
 
-The ECP Software Technology (ST) focus area received a recommendation during its February 2021 Independent Project Review to work with DOE program managers on developing a software sustainability plan.  As part of this effort, the ECP ST leadership team is hosting a series of town hall events to engage the broader scientific software community, both to describe our software efforts in ECP and to establish dialogue with the broader scientific software community.  
+As part of the Exascale Computing Project's ongoing efforts, the ECP Software Technology leadership team is hosting a series of town hall events to engage the broader scientific software community, both to describe our software efforts in ECP and to establish dialogue with the broader scientific software community toward improving the sustainability of our software in the future.  
 
 ECP ST has created a curated leadership software portfolio called E4S, [e4s.io](https://e4s.io).  In addition, we have established a macro-engineering software lifecycle, tool base and communication platforms that address the planning, execution, tracking and assessing of the portfolio.  
 
-As a community, we intend to transition ECP ST approaches and E4S to a sustainable state as we go beyond the end of ECP.
+As a community, we plan to build up the ECP ST efforts and E4S as part of an effort to improve the development, delivery and sustainability of future leadership scientific software capabilities, and to expand the community of developers and users who contribute to these efforts.
 
-We hope that the discussions during the town hall events will lead to improved understanding of sustainability, and the challenges and opportunities for improving it.
+We hope that the discussions during the town hall events will grow the leadership scientific software community and lead to better understanding of sustainability, and the challenges and opportunities for improving it.
 
 - **Who may attend:** We welcome anyone who will respectfully engage in the discussion
 - **Format:** Monthly 90-minute virtual meetings via Zoom using Zoom registration
