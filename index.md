@@ -3,7 +3,7 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
 
 ## Background
-The US Department of Energy (DOE) Exascale Computing Project (ECP) is developing many of the important enabling technologies required for obtaining functionality and performance on upcoming exascale computers.  As part of this effort, the ECP Software Technology (ST) focus area has established a macro-engineering software lifecycle to plan, execute, track, and assess product development toward the delivery of a curated portfolio of reusable, open-source software products called the *Extreme-scale Scientific Software Stack* or E4S[https://e4s.io].
+The US Department of Energy (DOE) Exascale Computing Project (ECP) is developing many of the important enabling technologies required for obtaining functionality and performance on upcoming exascale computers.  As part of this effort, the ECP Software Technology (ST) focus area has established a macro-engineering software lifecycle to plan, execute, track, and assess product development toward the delivery of a curated portfolio of reusable, open-source software products called the *Extreme-scale Scientific Software Stack* or [E4S](https://e4s.io).
 
 During the final years of ECP, one key objective is to transition to a sustainable organization and model for continued development and delivery of future capabilities, including incorporation of new scientific software domains, and expansion of the contributor community. 
 
