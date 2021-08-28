@@ -13,7 +13,7 @@ This [LSSw portal](https://lssw.io) is dedicated to supporting communication and
 We define Leadership Scientific Software to be libraries, tools and environments that contribute to scientific discovery and insight in new and emerging computing environments. The focus of these capabilities is to push the boundary of feasibility, enabling larger scale, higher fidelity and greater integration of advanced computing ecosystems.
 
 ## Join the Conversation
-we are providing several venues for people interested in learning about and contributing to the LSSw conversation.  Please use the following links to connect with this community:
+We are providing several venues for people interested in learning about and contributing to the LSSw conversation.  Please use the following links to connect with this community:
 - [LSSw.io:](https://lssw.io) The LSSw.io website (which presently redirects to the site LeadershipScientificSoftware.github.io) is the main portal for the LSSw community.
 - [LSSw Town Hall Meetings:](LSSwTownHalls.md)  The Exascale Computing Project (ECP) Software Technology (ST) leadership team is sponsoring a series of town hall meetings to discuss the development and sustainable delivery of leadership scientific software. Please visit the main [Town Hall meetings page](LSSwTownHalls.md) for the schedule and Zoom registration information.
 - [LSSw Slack Workspace:](https://join.slack.com/t/lsswworkspace/shared_invite/zt-v1idgwld-9tp8DvSJzj2vP3NmDbyjdw) Join the [LSSw Slack Workspace](https://join.slack.com/t/lsswworkspace/shared_invite/zt-v1idgwld-9tp8DvSJzj2vP3NmDbyjdw) to participate in the LSSw community discussions.
