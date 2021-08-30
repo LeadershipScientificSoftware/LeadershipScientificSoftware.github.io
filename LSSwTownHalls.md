@@ -13,10 +13,23 @@ We hope that the discussions during the town hall events will grow the leadershi
 - **Who may attend:** We welcome anyone who will respectfully engage in the discussion
 - **Format:** Monthly 90-minute virtual meetings via Zoom using Zoom registration
 - **Schedule:** Third Thursday each month from 3 - 4:30 pm ET
-- **Registration:** [Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM)
+- **Registration:** [Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
 
-### Meeting Details
+### Meeting Details 
+
+**All meetings use the same Zoom link, provided when you register**
 
 | Date | Time | Topic | Details |
 |------|------|-------|---------|
-| 09/16/2021 | 3 - 4:30 pm ET | Overview of the ECP Software Technology Focus Area | [Meeting 1](Meeting1.md) |
+| Sep 16, 2021 | 3 - 4:30 pm ET | Overview of the ECP Software Technology Focus Area | [Meeting 1](Meeting1.md) |
+| Oct 21, 2021| 3 - 4:30 pm ET | TBD | TBD |
+| Nov 18, 2021| 3 - 4:30 pm ET | TBD | TBD |
+| Dec 16, 2021| 3 - 4:30 pm ET | TBD | TBD |
+| Jan 20, 2022| 3 - 4:30 pm ET | TBD | TBD |
+| Feb 17, 2022| 3 - 4:30 pm ET | TBD | TBD |
+| Mar 17, 2022| 3 - 4:30 pm ET | TBD | TBD |
+| Apr 21, 2022| 3 - 4:30 pm ET | TBD | TBD |
+| May 19, 2022| 3 - 4:30 pm ET | TBD | TBD |
+| Jun 16, 2022| 3 - 4:30 pm ET | TBD | TBD |
+| Jul 21, 2022| 3 - 4:30 pm ET | TBD | TBD |
+| Aug 18, 2022| 3 - 4:30 pm ET | TBD | TBD |
