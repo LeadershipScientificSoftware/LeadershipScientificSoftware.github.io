@@ -16,7 +16,7 @@ We define Leadership Scientific Software to be libraries, tools and environments
 
 ## Join the Conversation
 We are providing several venues for people interested in learning about and contributing to the LSSw conversation.  Please use the following links to connect with this community:
-- [LSSw.io:](https://lssw.io) The LSSw.io website (which presently redirects to the site [LeadershipScientificSoftware.github.io](https://leadershipscientificsoftware.github.io/) is the main portal for the LSSw community.
+- [LSSw.io:](https://lssw.io) The LSSw.io website (which presently redirects to the site [LeadershipScientificSoftware.github.io](https://leadershipscientificsoftware.github.io/)) is the main portal for the LSSw community.
 - [LSSw Town Hall Meetings:](LSSwTownHalls.md)  The Exascale Computing Project (ECP) Software Technology (ST) leadership team is sponsoring a series of town hall meetings to discuss the development and sustainable delivery of leadership scientific software. Please visit the main [Town Hall meetings page](LSSwTownHalls.md) for the schedule and Zoom registration information.
 - [LSSw Slack Workspace:](https://join.slack.com/t/lsswworkspace/shared_invite/zt-v1idgwld-9tp8DvSJzj2vP3NmDbyjdw) Join the [LSSw Slack Workspace](https://join.slack.com/t/lsswworkspace/shared_invite/zt-v1idgwld-9tp8DvSJzj2vP3NmDbyjdw) to participate in the LSSw community discussions.
 - [LSSw Announce Mail List:](https://lssw.io/mailman/listinfo/announce_lssw.io) Join the [LSSw Announce mail list](https://lssw.io/mailman/listinfo/announce_lssw.io) to get updates on meetings and related events.
