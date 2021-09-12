@@ -23,6 +23,6 @@ We are providing several venues for people interested in learning about and cont
 
 ## Resources
 As part of LSSw efforts, we ask the community to make contributions to this website:
-- **White Papers:** If you want to contribute written content to LSSw conversations, we encourage you to write a 2 - 4 page white paper and submit it to the LLSw website via a [pull request to the White Papers page](WhitePapers/WhitePaperList.md).
-- **References:** If you know of relevant published content that would inform the LSSw community, please add a reference to the LSSw website via a [pull request to the References page](References/ReferenceList.md).
-- **Town Hall Archives:** Slides and recordings from [previous town hall meetings](TownHallArchives/TownHallArchiveList.md).
+- **[White Papers:](WhitePapers/WhitePaperList.md)** Contributed written content to LSSw conversations. We encourage you to write a 2 - 4 page white paper and submit it to the LLSw website via a [pull request to the White Papers page](WhitePapers/WhitePaperList.md).
+- **[References:](References/ReferenceList.md)** Relevant published content to inform the LSSw community. Please add a reference to the LSSw website via a [pull request to the References page](References/ReferenceList.md).
+- **[Town Hall Archives:](TownHallArchives/TownHallArchiveList.md)** Slides and recordings from previous town hall meetings.
