@@ -1,6 +1,6 @@
 # LSSw Whitepapers
 
-To edit this page, make a pull request for the [page source on GitHub](https://github.com/LeadershipScientificSoftware/LeadershipScientificSoftware.github.io/blob/master/WhitePapers/WhitePaperList.md).  Add the PDF of your white paper to the same folder.
+To edit this page, make a pull request for the [page source on GitHub](https://github.com/LeadershipScientificSoftware/LeadershipScientificSoftware.github.io/blob/main/WhitePapers/WhitePaperList.md).  Add the PDF of your white paper to the same folder.
 
 ## List of papers:
 
