@@ -5,5 +5,3 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 ## List of papers:
 
 1. [Lastname, Firstname: Title](whitepaper.pdf) - DOI: []()
-
-#### [Back to Main Page](../../index.md)

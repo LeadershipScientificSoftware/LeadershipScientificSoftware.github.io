@@ -7,5 +7,3 @@ To edit this page, make a pull request for the [page source on GitHub](https://g
 ## List of papers:
 
 1. [Citation](URL)
-
-#### [Back to Main Page](../../index.md)
