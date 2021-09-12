@@ -20,3 +20,9 @@ We are providing several venues for people interested in learning about and cont
 - [LSSw Town Hall Meetings:](LSSwTownHalls.md)  The Exascale Computing Project (ECP) Software Technology (ST) leadership team is sponsoring a series of town hall meetings to discuss the development and sustainable delivery of leadership scientific software. Please visit the main [Town Hall meetings page](LSSwTownHalls.md) for the schedule and Zoom registration information.
 - [LSSw Slack Workspace:](https://join.slack.com/t/lsswworkspace/shared_invite/zt-v1idgwld-9tp8DvSJzj2vP3NmDbyjdw) Join the [LSSw Slack Workspace](https://join.slack.com/t/lsswworkspace/shared_invite/zt-v1idgwld-9tp8DvSJzj2vP3NmDbyjdw) to participate in the LSSw community discussions.
 - [LSSw Announce Mail List:](https://lssw.io/mailman/listinfo/announce_lssw.io) Join the [LSSw Announce mail list](https://lssw.io/mailman/listinfo/announce_lssw.io) to get updates on meetings and related events.
+
+## Resources
+As part of LSSw efforts, we ask the community to make contributions to this website:
+- **White Papers:** If you want to contribute written content to LSSw conversations, we encourage you to write a 2 - 4 page white paper and submit it to the LLSw website via a [pull request to the White Papers page](WhitePapers/WhitePaperList.md).
+- **References:** If you know of relevant published content that would inform the LSSw community, please add a reference to the LSSw website via a [pull request to the References page](References/ReferenceList.md).
+- **Town Hall Archives:** Slides and recordings from [previous town hall meetings](TownHallArchives/TownHallArchiveList.md).
