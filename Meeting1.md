@@ -9,4 +9,5 @@
 **Why attend:** To understand the approach ECP has established for developing and delivering its software as a curated portfolio of capabilities.
 
 **Slides:** [LSSwKickoffSlides.pdf](files/LSSwKickoffSlides.pdf)
+
 **Video:** [Zoom Recording] (Available Soon)
