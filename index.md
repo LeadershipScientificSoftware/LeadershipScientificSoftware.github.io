@@ -2,7 +2,9 @@
 
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
 
-**Quick link: [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  First meeting is Sep 16, 3 - 4:30 pm ET.**
+## Quick links
+- [Slides and video from Meeting 1](Meedting1.md).
+- [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  Meeting 2 is Oct 21, 3 - 4:30 pm ET.
 
 ## Background
 The US Department of Energy (DOE) Exascale Computing Project (ECP) is developing many of the important enabling technologies required for obtaining functionality and performance on upcoming exascale computers.  As part of this effort, the ECP Software Technology (ST) focus area has established a macro-engineering software lifecycle to plan, execute, track, and assess product development toward the delivery of a curated portfolio of reusable, open-source software products called the *Extreme-scale Scientific Software Stack* or [E4S](https://e4s.io).
