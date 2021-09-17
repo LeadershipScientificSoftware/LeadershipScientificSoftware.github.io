@@ -10,4 +10,4 @@
 
 **Slides:** [LSSwKickoffSlides.pdf](files/LSSwKickoffSlides.pdf)
 
-**Video:** [Zoom Recording] (Available Soon)
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/soRP2MBG4SDnBqlUuX0KjcyOkgtfGq8TSqeQ4mWwoNMvmpPLQtHMwA_hM8eg4Mj_.oYYKQyd60DUva5QR?startTime=1631819111000)
