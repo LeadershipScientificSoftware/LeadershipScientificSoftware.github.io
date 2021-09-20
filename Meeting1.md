@@ -10,4 +10,4 @@
 
 **Slides:** [LSSwKickoffSlides.pdf](files/LSSwKickoffSlides.pdf)
 
-**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/soRP2MBG4SDnBqlUuX0KjcyOkgtfGq8TSqeQ4mWwoNMvmpPLQtHMwA_hM8eg4Mj_.oYYKQyd60DUva5QR?startTime=1631819111000)
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/Wjr8ATrK3fIhgTbDo-pnhxwNRyFjbHrHQdXCMvNS_6INbWNEHBxL8veO_cUQ3SaI.x9kb2O3B1ycHBVJq?startTime=1631819111000)
