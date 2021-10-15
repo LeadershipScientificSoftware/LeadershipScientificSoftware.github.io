@@ -3,6 +3,7 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
 
 ## Quick links
+- [Agenda for Meeting 2](Meeting2.md)
 - [Slides and video from Meeting 1](Meeting1.md)
 - [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  Meeting 2 is Oct 21, 3 - 4:30 pm ET
 - [Contribute a white paper or reference](Contribute.md)
