@@ -5,7 +5,7 @@
 **Topic:** Progress, impediments, priorities and gaps in leadership scientific software: A panel discussion
 
 **Description:** This month we have five panelists representing DOE software projects with a variety of relationships to leadership scientific software:
-- [Ann Almgren](https://ccse.lbl.gov/people/almgren/), Berkeley Lab, PI of the [AMReX](https://ccse.lbl.gov/AMReX/index.html) project
+- [Ann Almgren](https://ccse.lbl.gov/people/almgren/), Berkeley Lab, PI of the [AMReX](https://amrex-codes.github.io) project
 - [Todd Gamblin](https://people.llnl.gov/gamblin2), Lawrence Livermore National Lab, PI of the [Spack](https://github.com/spack) project
 - [Paul Kent](https://web.ornl.gov/~kentpr/), Oak Ridge National Lab, PI of the [QMCPACK](https://qmcpack.org) project
 - [J. David Moulton](https://github.com/jd-moulton), Los Alamos National Lab, PI of the [IDEAS Watersheds](https://ideas-productivity.org/ideas-watersheds/ideas-watersheds-team/) project
