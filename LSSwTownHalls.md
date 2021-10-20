@@ -22,8 +22,8 @@ We hope that the discussions during the town hall events will grow the leadershi
 | Date | Time | Topic | Details |
 |------|------|-------|---------|
 | Sep 16, 2021 | 3 - 4:30 pm ET | Overview of the ECP Software Technology Focus Area | [Meeting 1](Meeting1.md) |
-| Oct 21, 2021| 3 - 4:30 pm ET | TBD | TBD |
-| Nov 18, 2021| 3 - 4:30 pm ET | TBD | TBD |
+| Oct 21, 2021| 3 - 4:30 pm ET | Progress, impediments, priorities and gaps in leadership scientific software: A panel discussion | [Meeting 2](Meeting2.md) |
+| Nov 18, 2021| 3 - 4:30 pm ET | Scoping Leadership Scientfic Software Roles: A panel discussion | [Meeting 3](Meeting3.md) |
 | Dec 16, 2021| 3 - 4:30 pm ET | TBD | TBD |
 | Jan 20, 2022| 3 - 4:30 pm ET | TBD | TBD |
 | Feb 17, 2022| 3 - 4:30 pm ET | TBD | TBD |
