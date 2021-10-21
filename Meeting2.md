@@ -19,6 +19,6 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Why attend:** To discuss the progress, impediments, priorities and gaps in leadership scientific software.
 
-**Slides:** [LSSw-Panel1.pdf](files/LSSw-Panel1.pdf)
+**Slides:** [LSSwMeeting2Panel.pdf](files/LSSwMeeting2Panel.pdf)
 
 **Video:** [Zoom Recording]()

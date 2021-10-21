@@ -1,6 +1,6 @@
-## Meeting 2
+## Meeting 3
 
-**Time:** Thursday, October 21, 3 - 4:30 pm ET
+**Time:** Thursday, November 18, 3 - 4:30 pm ET
 
 **Topic:** Expanding the Leadership Scientific Software Developer and User Communities: A panel discussion
 
@@ -14,8 +14,8 @@ In opening remarks, panelists briefly address the following questions from their
 - What do you see as the most urgent priority activities in planning for a sustainable leadership software ecosystem over the next few years?
 - What is missing from the conversation about sustainable leadership scientific software?
 
-**Why attend:** To discuss the progress, impediments, priorities and gaps in leadership scientific software.
+**Why attend:** To discuss the potential expansion and limits of leadership scientific software.
 
-**Slides:** [LSSw-Panel1.pdf](files/LSSw-Panel1.pdf)
+**Slides:** [LSSw-Panel3.pdf](files/LSSw-Panel3.pdf)
 
 **Video:** [Zoom Recording]()
