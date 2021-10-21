@@ -2,14 +2,11 @@
 
 **Time:** Thursday, October 21, 3 - 4:30 pm ET
 
-**Topic:** Progress, impediments, priorities and gaps in leadership scientific software: A panel discussion
+**Topic:** Expanding the Leadership Scientific Software Developer and User Communities: A panel discussion
 
-**Description:** This month we have five panelists representing DOE software projects with a variety of relationships to leadership scientific software:
-- [Ann Almgren](https://ccse.lbl.gov/people/almgren/), Berkeley Lab, PI of the [AMReX](https://amrex-codes.github.io) project
-- [Todd Gamblin](https://people.llnl.gov/gamblin2), Lawrence Livermore National Lab, PI of the [Spack](https://github.com/spack) project
-- [Paul Kent](https://web.ornl.gov/~kentpr/), Oak Ridge National Lab, PI of the [QMCPACK](https://qmcpack.org) project
-- [J. David Moulton](https://github.com/jd-moulton), Los Alamos National Lab, PI of the [IDEAS Watersheds](https://ideas-productivity.org/ideas-watersheds/ideas-watersheds-team/) project
-- [Todd Munson](https://www.mcs.anl.gov/~tmunson/), Argonne National Lab, PI of the [PETSc/TAO](https://petsc.org/) project
+**Description:** This month we have panelists representing the broader scientific software developer and user communities:
+- [Anshu Dubey](https://www.anl.gov/profile/anshu-dubey), Argonne National Laboratory
+- Others TBD
 
 In opening remarks, panelists briefly address the following questions from their perspective:
 - In the past few years, how have we improved the development and sustainable delivery of leadership scientific software?
