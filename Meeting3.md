@@ -5,8 +5,10 @@
 **Topic:** US Agencies' Use of DOE HPC Software: A panel discussion
 
 **Description:** This month we have panelists representing the broader scientific software user communities:
+- [Shawn Brown](https://www.psc.edu/brown/), Pittsburgh Supercomputing Center
 - [Jeff Durachta](https://www.linkedin.com/in/jwdurachta/), NOAA
 - [Alice Koniges](https://datascience.hawaii.edu/profile/alice-koniges/), Maui HPC Center
+- [Piyush Mehrotra](https://www.nas.nasa.gov/aboutnas/bios/bio_mehrotra_piyush.html), NASA
 - [Andrew Wissink](https://www.linkedin.com/in/awissink/), US Army
 
 In opening remarks, panelists briefly address the following questions from their perspective:
