@@ -7,6 +7,7 @@
 - [Slides and video from Meeting 2](Meeting2.md)
 - [Slides and video from Meeting 1](Meeting1.md)
 - [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  Meeting 3 is Nov 18, 3 - 4:30 pm ET
+- [Direct link to Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
 - [Contribute a white paper or reference](Contribute.md)
 - [FAQs](FAQ.md)
 
