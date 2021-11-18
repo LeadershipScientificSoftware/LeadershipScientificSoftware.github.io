@@ -3,7 +3,8 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
 
 ## Quick links
-- [Agenda for Meeting 3](Meeting3.md)
+- [Slides and video from Meeting 3](Meeting3.md)
+    - [DOE ASCR Software-Stewarship RFI slides](files/ASCR-RFI-Sustainable-SW-Slides.pdf)
 - [Slides and video from Meeting 2](Meeting2.md)
 - [Slides and video from Meeting 1](Meeting1.md)
 - [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  Meeting 3 is Nov 18, 3 - 4:30 pm ET
