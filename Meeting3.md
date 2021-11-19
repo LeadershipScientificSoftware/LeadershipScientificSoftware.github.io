@@ -2,12 +2,12 @@
 
 **Time:** Thursday, November 18, 3 - 4:30 pm ET
 
-**Topic:** US Agencies' Use of DOE HPC Software: A panel discussion
+**Topic:** US Agency Use of DOE HPC Software: A panel discussion
 
 **Description:** This month we have panelists representing the broader scientific software user communities:
 - [Shawn Brown](https://www.psc.edu/brown/), Pittsburgh Supercomputing Center
 - [Jeff Durachta](https://www.linkedin.com/in/jwdurachta/), NOAA
-- [Alice Koniges](https://datascience.hawaii.edu/profile/alice-koniges/), Maui HPC Center
+- [Alice Koniges](https://datascience.hawaii.edu/profile/alice-koniges/), University of Hawai'i Data Science Center
 - [Piyush Mehrotra](https://www.nas.nasa.gov/aboutnas/bios/bio_mehrotra_piyush.html), NASA
 - [Andrew Wissink](https://www.linkedin.com/in/awissink/), US Army
 
@@ -22,4 +22,4 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Slides:** [LSSw-Panel3.pdf](files/LSSwMeeting3Panel.pdf)
 
-**Video:** [Zoom Recording]()
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/F2UlkpMicw3ZvfLy9vljfh9tuKabQaR1JeLHTI8pGrO4Q_LFckXiYUiygrjBpZFi.soQgintkVtXlzFAy)
