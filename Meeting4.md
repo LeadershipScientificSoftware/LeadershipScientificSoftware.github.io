@@ -4,7 +4,7 @@
 
 **Topic:** Expanding the Leadership Scientific Software Developer and User Communities: A panel discussion
 
-**Description:** This month we have panelists representing the broader scientific software developer and user communities:
+**Description:** This month we have panelists representing the broader scientific software developer communities:
 - [Anshu Dubey](https://www.anl.gov/profile/anshu-dubey), Argonne National Laboratory
 - Others TBD
 
@@ -14,7 +14,7 @@ In opening remarks, panelists briefly address the following questions from their
 - If so, what is most important to consider if we attempt to expand the definition of leadership computing to include the community you represent? If not, why?
 - What are some issues in the HPC software community that are not being sufficiently addressed right now that need to be considered to better address your important requirements?
 
-**Why attend:** To discuss the potential expansion and limits of leadership scientific software.
+**Why attend:** To discuss the potential expansion and limits of leadership scientific software beyond high-performance computing.
 
 **Slides:** [LSSw-Panel4.pdf](files/LSSw-Panel4.pdf)
 
