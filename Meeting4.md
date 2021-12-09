@@ -1,6 +1,6 @@
 ## Meeting 4
 
-**Time:** Thursday, December 16, 3 - 4:30 pm ET
+**Time:** Thursday, January 20, 2022, 3 - 4:30 pm ET
 
 **Topic:** Expanding the Leadership Scientific Software Developer and User Communities: A panel discussion
 
