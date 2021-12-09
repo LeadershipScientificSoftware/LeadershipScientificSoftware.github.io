@@ -9,10 +9,10 @@
 - Others TBD
 
 In opening remarks, panelists briefly address the following questions from their perspective:
-- In the past few years, how have we improved the development and sustainable delivery of leadership scientific software?
-- What are the most important impediments to further improvement?
-- What do you see as the most urgent priority activities in planning for a sustainable leadership software ecosystem over the next few years?
-- What is missing from the conversation about sustainable leadership scientific software?
+- What are some important similarities and differences between the software development and use in your community relative to large-scale HPC environments such as the DOE Leadership Computing Facilities (LLNL, OLCF, ALCF, NERSC)?
+- Do you think it makes sense to include your scientific software community as part of what we mean by Leadership Scientific Software?
+- If so, what is most important to consider if we attempt to expand the definition of leadership computing to include the community you represent? If not, why?
+- What are some issues in the HPC software community that are not being sufficiently addressed right now that need to be considered to better address your important requirements?
 
 **Why attend:** To discuss the potential expansion and limits of leadership scientific software.
 
