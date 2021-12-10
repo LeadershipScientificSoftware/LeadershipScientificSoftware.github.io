@@ -20,7 +20,7 @@ During the final years of ECP, one key objective is to transition our efforts to
 This [LSSw portal](https://lssw.io) is dedicated to supporting communication and community building toward the sustainable development and delivery of *Leadership Scientific Software*.
 
 ## A Working Definition of Leadership Scientific Software
-We define Leadership Scientific Software to be libraries, tools and environments that contribute to scientific discovery and insight in new and emerging computing environments. The focus of these capabilities is to push the boundary of feasibility, enabling larger scale, higher fidelity and greater integration of advanced computing ecosystems.
+We define Leadership Scientific Software to be libraries, tools and environments that contribute to scientific discovery and insight in new and emerging computing environments, including supercomputers, large-scale scientific instruments, sensors, and more. [More Details](LeadershipDefinition.md)
 
 ## Join the Conversation
 We are providing several venues for people interested in learning about and contributing to the LSSw conversation.  Please use the following links to connect with this community:
