@@ -5,7 +5,7 @@
 **Topic:** Expanding the Leadership Scientific Software Developer and User Communities: A panel discussion
 
 **Description:** This month we have panelists representing the broader scientific software developer communities:
-- [Deb Agarwal (tentative)](https://dst.lbl.gov/~deba/), Berkely Lab
+- [Deb Agarwal](https://dst.lbl.gov/~deba/), Berkely Lab
 - [Anshu Dubey](https://www.anl.gov/profile/anshu-dubey), Argonne National Laboratory
 - [Bill Hart](https://www.linkedin.com/in/william-e-hart-3691134/), Sandia National Labs
 - [Addi Malviya-Thakur](https://csmd.ornl.gov/profile/addi-malviya-thakur), Oak Ridge National Laboratory
