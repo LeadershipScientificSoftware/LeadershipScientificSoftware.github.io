@@ -3,15 +3,17 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
 
 ## Quick links
-- [Slides and video from Meeting 3](Meeting3.md)
-    - [DOE ASCR Software-Stewarship RFI slides](files/ASCR-RFI-Sustainable-SW-Slides.pdf)
-- [Slides and video from Meeting 2](Meeting2.md)
-- [Slides and video from Meeting 1](Meeting1.md)
-- [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  Meeting 3 is Nov 18, 3 - 4:30 pm ET
-    - [Direct link to Town Hall Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
+- [Meeting 4 Information](Meeting4.md) Meeting 4 is Jan 20, 2022, 3 - 4:30 pm ET
+- [Direct link to Town Hall Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
 - [Contribute a white paper or reference](Contribute.md)
 - [FAQs](FAQ.md)
 
+## Previous meetings
+- [Slides and video from Meeting 3](Meeting3.md)
+- [Slides and video from Meeting 2](Meeting2.md)
+- [Slides and video from Meeting 1](Meeting1.md)
+- [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  
+ 
 ## Background
 The US Department of Energy (DOE) Exascale Computing Project (ECP) is developing many of the important enabling technologies required for obtaining functionality and performance on upcoming exascale computers.  As part of this effort, the ECP Software Technology (ST) focus area has established a macro-engineering software lifecycle to plan, execute, track, and assess product development toward the delivery of a curated portfolio of reusable, open-source software products called the *Extreme-scale Scientific Software Stack* or [E4S](https://e4s.io).
 
