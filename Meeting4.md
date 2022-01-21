@@ -21,4 +21,4 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Slides:** [LSSw-Panel4.pdf](files/LSSwMeeting4Panel.pdf)
 
-**Video:** [Zoom Recording]()
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/pWW0ugTI20tUcJphZp9nxeitDWogOM1nhHqRJTdkcLKRx7zaGL_78h1U-1Gv4wtC.gs0Cv-Shw5YdNiTU)
