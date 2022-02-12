@@ -4,6 +4,7 @@
 
 ## Quick links
 - [Meeting 5 Information](Meeting5.md) Meeting 5 is Feb 17, 2022, 3 - 4:30 pm ET
+- [Meeting 6 Information](Meeting6.md) Meeting 6 is Mar 17, 2022, 3 - 4:30 pm ET
 - [Direct link to Town Hall Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
 - [Contribute a white paper or reference](Contribute.md)
 - [FAQs](FAQ.md)
