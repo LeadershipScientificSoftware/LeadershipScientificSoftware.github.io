@@ -6,13 +6,13 @@
 
 **Description:** This month we have panelists representing experience with other technical software ecosystems:
 - [Anita Carleton](https://www.sei.cmu.edu/about/leadership/display.cfm?customel_datapageid_2623=3987), CMU, [SEI](https://www.sei.cmu.edu)
-- [T. Daniel Crawford](https://chem.vt.edu/people/faculty/teaching-and-research/dcrawford.html), Virginia Tech, [MOLSSI](https://molssi.org)
+- [T. Daniel Crawford](https://chem.vt.edu/people/faculty/teaching-and-research/dcrawford.html), Virginia Tech, [MolSSI](https://molssi.org)
 - [Lorraine Hwang](https://geodynamics.org/cig/about/people/profile-hwang/), UC Davis, [CIG](https://geodynamics.org)
 - [Elizabeth Sexton-Kennedy](https://computing.fnal.gov/liz-sexton-kennedy/), Fermi Lab, [HSF](https://hepsoftwarefoundation.org)
 - [Andy Terrel](http://andy.terrel.us), Xometry, [NumFocus](https://numfocus.org)
 
 In opening remarks, panelists briefly address the following questions from their perspective:
-- What is the value proposition of your ecosystem to it developer and user communities?
+- What is the value proposition of your ecosystem to its developer and user communities?
 - What is the business model of your ecosystem (how do people fund their efforts)?
 - What are some of the challenges you face in providing value?
 - What are your sustainability challenges?
