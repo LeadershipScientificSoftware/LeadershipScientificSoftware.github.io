@@ -2,7 +2,7 @@
 
 **Time:** Thursday, February 17, 2022, 3 - 4:30 pm ET
 
-**Topic:** Meetings 1 - 4 Retrospective
+**Topic:** Meetings 1 - 4 Retrospective and Community Input
 
 **Description:** We review the key themes froms the previous four town hall meetings
 - Mike Heroux - Observations and Discussion Lead
