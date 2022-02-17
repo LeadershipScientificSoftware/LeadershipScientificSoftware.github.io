@@ -4,7 +4,7 @@
 
 **Topic:** Meetings 1 - 4 Retrospective and Community Input
 
-**Description:** We review the key themes froms the previous four town hall meetings
+**Description:** We review the key themes from the previous four town hall meetings
 - Mike Heroux - Observations and Discussion Lead
 
 In opening remarks we will highlight some of the key themes from the previous town halls and then open up discussion to all participants.
