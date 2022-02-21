@@ -13,4 +13,4 @@ In opening remarks we will highlight some of the key themes from the previous to
 
 **Slides:** [LSSw-Panel5.pdf](files/LSSwMeeting5Panel.pdf)
 
-**Video:** [Zoom Recording]()
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/VgXyRamD_tgFOGdd-PnOr-sYTx4F8RgWaqRNDnbnA8k9djUtAaqh0FSe5wTVRvlL.5YEQy3Ip6KjrASnX)

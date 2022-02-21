@@ -6,7 +6,7 @@
 
 **Description:** This month we have panelists representing experience with other technical software ecosystems:
 - [Anita Carleton](https://www.sei.cmu.edu/about/leadership/display.cfm?customel_datapageid_2623=3987), CMU, [SEI](https://www.sei.cmu.edu)
-- [T. Daniel Crawford](https://chem.vt.edu/people/faculty/teaching-and-research/dcrawford.html), Virginia Tech, [MolSSI](https://molssi.org)
+- [Theresa Windus](https://www.chem.iastate.edu/people/theresa-windus), Iowa State, [MolSSI](https://molssi.org)
 - [Lorraine Hwang](https://geodynamics.org/cig/about/people/profile-hwang/), UC Davis, [CIG](https://geodynamics.org)
 - [Elizabeth Sexton-Kennedy](https://computing.fnal.gov/liz-sexton-kennedy/), Fermi Lab, [HSF](https://hepsoftwarefoundation.org)
 - [Andy Terrel](http://andy.terrel.us), Xometry, [NumFocus](https://numfocus.org)
