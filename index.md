@@ -3,13 +3,14 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
 
 ## Quick links
-- [Meeting 5 Information](Meeting5.md) Meeting 5 is Feb 17, 2022, 3 - 4:30 pm ET
 - [Meeting 6 Information](Meeting6.md) Meeting 6 is Mar 17, 2022, 3 - 4:30 pm ET
 - [Direct link to Town Hall Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
 - [Contribute a white paper or reference](Contribute.md)
+- [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 - [FAQs](FAQ.md)
 
 ## Previous meetings
+- [Slides and video from Meeting 5](Meeting5.md)
 - [Slides and video from Meeting 4](Meeting4.md)
 - [Slides and video from Meeting 3](Meeting3.md)
 - [Slides and video from Meeting 2](Meeting2.md)

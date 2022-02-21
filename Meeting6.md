@@ -4,7 +4,7 @@
 
 **Topic:** Scientific Software Ecosystems: A panel discussion
 
-**Description:** This month we have panelists representing experience with other technical software ecosystems:
+**Description:** This month we have panelists representing experience with mature scientific software ecosystems:
 - [Anita Carleton](https://www.sei.cmu.edu/about/leadership/display.cfm?customel_datapageid_2623=3987), CMU, [SEI](https://www.sei.cmu.edu)
 - [Theresa Windus](https://www.chem.iastate.edu/people/theresa-windus), Iowa State, [MolSSI](https://molssi.org)
 - [Lorraine Hwang](https://geodynamics.org/cig/about/people/profile-hwang/), UC Davis, [CIG](https://geodynamics.org)
