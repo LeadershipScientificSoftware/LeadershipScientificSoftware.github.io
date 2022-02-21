@@ -27,7 +27,7 @@ We hope that the discussions during the town hall events will grow the leadershi
 | Dec 16, 2021| 3 - 4:30 pm ET | No meeting |  |
 | Jan 20, 2022| 3 - 4:30 pm ET | Expanding the Leadership Scientific Software Developer Communities: A panel discussion | [Meeting 4](Meeting4.md) |
 | Feb 17, 2022| 3 - 4:30 pm ET | Meetings 1 - 4 Retrospective and Community Input | [Meeting 5](Meeting5.md) |
-| Mar 17, 2022| 3 - 4:30 pm ET | Scientific Software Ecosystems: A panel discussion | [Meeting6](Meeting6.md) |
+| Mar 17, 2022| 3 - 4:30 pm ET | Scientific Software Ecosystems: A panel discussion | [Meeting 6](Meeting6.md) |
 | Apr 21, 2022| 3 - 4:30 pm ET | Expanding the Scope of What is Reusable: A panel discussion | [Meeting 7](Meeting7.md) |
 | May 19, 2022| 3 - 4:30 pm ET | TBD | TBD |
 | Jun 16, 2022| 3 - 4:30 pm ET | TBD | TBD |
