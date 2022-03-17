@@ -6,10 +6,10 @@
 
 **Description:** This month we have panelists representing experience with mature scientific software ecosystems:
 - [Anita Carleton](https://www.sei.cmu.edu/about/leadership/display.cfm?customel_datapageid_2623=3987), CMU, [SEI](https://www.sei.cmu.edu)
-- [Theresa Windus](https://www.chem.iastate.edu/people/theresa-windus), Iowa State, [MolSSI](https://molssi.org)
 - [Lorraine Hwang](https://geodynamics.org/cig/about/people/profile-hwang/), UC Davis, [CIG](https://geodynamics.org)
 - [Elizabeth Sexton-Kennedy](https://computing.fnal.gov/liz-sexton-kennedy/), Fermi Lab, [HSF](https://hepsoftwarefoundation.org)
 - [Andy Terrel](http://andy.terrel.us), Xometry, [NumFocus](https://numfocus.org)
+- [Theresa Windus](https://www.chem.iastate.edu/people/theresa-windus), Iowa State, [MolSSI](https://molssi.org)
 
 In opening remarks, panelists briefly address the following questions from their perspective:
 - What is the value proposition of your ecosystem to its developer and user communities?
