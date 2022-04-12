@@ -6,11 +6,11 @@
 
 **Description:** General-purpose reusable libraries and tools for scientific applications have been very successful.  Math, I/O, viz and portable programming libraries and tools have been particularly valuable.  Other, more application-specific, libraries and tools have also had some success, for example, the Co-Design Centers sponsored by the Exascale Computing Project, but have received less attention and can be more challenging to sustain.  This month we have panelists to help explore expanding the kinds of functionality that can be encapsulated for reuse:
 
+- Ethan Coon, ORNL
 - Angela Herring, LANL
 - Slaven Peles, ORNL
 - Andrew Salinger, SNL
 - Andrew Siegel, ANL
-- One more, TBD
 
 In opening remarks, panelists briefly address the following questions from their perspective:
 - Do you think there is value in designing, implementing, and delivering application-specific libraries, tools, and environments as reusable components?
