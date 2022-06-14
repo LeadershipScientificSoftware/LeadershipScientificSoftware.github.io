@@ -1,6 +1,6 @@
-## Meeting 9
+## Meeting 10
 
-**Time:** Thursday, June 16, 2022, 3 - 4:30 pm ET
+**Time:** Thursday, July 21, 2022, 3 - 4:30 pm ET
 
 **Topic:** Expanding Laboratory, University, and Industry Collaborations: A Panel Discussion
 
