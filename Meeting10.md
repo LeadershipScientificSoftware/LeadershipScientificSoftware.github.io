@@ -12,8 +12,8 @@ This month our panelists are:
 
 - TBD
 
-In opening remarks, panelists briefly address the following questions from their perspective:
-- What are some existing examples of scientific software collaboration between federal agency sponsored programs (at labs and universities) and software vendor product development?
+In opening remarks, panelists briefly address the following questions from their perspectives:
+- What are some existing examples of scientific software collaboration between federal agency-sponsored programs (at labs and universities) and software vendor product development?
 - What has worked and not worked well with past leverage and complementarity efforts?
 - What are some near-term opportunities to improve leverage and complementarity?
 - What are some long-term opportunities and constraints on leverage and complementarity?
