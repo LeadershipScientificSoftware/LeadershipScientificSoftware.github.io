@@ -3,7 +3,7 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
 
 ## Quick links
-- [Meeting 9 Information](Meeting9.md) Meeting 9 is June 16, 2022, 3 - 4:30 pm ET
+- [Meeting 10 Information](Meeting10.md) Meeting 10 is July 21, 2022, 3 - 4:30 pm ET
 - [Direct link to Town Hall Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
 - [Meeting 10 (July 21) Information](Meeting10.md)
 - [Contribute a white paper or reference](Contribute.md)
@@ -11,6 +11,7 @@
 - [FAQs](FAQ.md)
 
 ## Previous meetings
+- [Slides and video from Meeting 9](Meeting9.md)
 - [Slides and video from Meeting 8](Meeting8.md)
 - [Slides and video from Meeting 7](Meeting7.md)
 - [Slides and video from Meeting 6](Meeting6.md)

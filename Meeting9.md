@@ -16,6 +16,4 @@ To obtain the most from the town hall discussion, participants may want to look 
 
 **Why attend:** To understand and discuss scientific-software sustainability ideas arising from the ASCR RFI responses.
 
-**Slides:** [LSSw-Panel9.pdf](files/LSSwMeeting9Panel.pdf)
-
-**Video:** [Zoom Recording]()
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/XokUlVYtuWn8ogJHlPXErlUrLQtNqKYVmJX_Hj56-6_yNh7mlEY0ZMegH0gupVuj.mcs6z7Au7ae1rf_O)
