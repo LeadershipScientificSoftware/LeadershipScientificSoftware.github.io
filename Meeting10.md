@@ -11,7 +11,7 @@ In this panel discussion, we bring community members with strong industry experi
 This month our panelists are:
 
 - John Cary, Tech-X Corp
-- Barbara Chapman, HPE, Inc (Tentative)
+- Pete Mendrygal, HPE, Inc
 - Jeff Larkin, NVIDIA Corp
 - Bob Lucas, ANSYS, Inc
 - Pat Quillen, MathWorks, Inc
