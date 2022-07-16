@@ -11,10 +11,10 @@ In this panel discussion, we bring community members with strong industry experi
 This month our panelists are:
 
 - John Cary, Tech-X Corp
+- Sarah Knepper, Intel Corp
 - Pete Mendrygal, HPE, Inc
 - Jeff Larkin, NVIDIA Corp
 - Bob Lucas, ANSYS, Inc
-- Pat Quillen, MathWorks, Inc
 
 In opening remarks, panelists briefly address the following questions from their perspectives:
 - What are some existing examples of scientific software collaboration between federal agency-sponsored programs (at labs and universities) and software vendor product development?
