@@ -23,7 +23,7 @@ In opening remarks, panelists briefly address the following questions from their
 - What are some long-term opportunities and constraints on leverage and complementarity?
 
 
-**Why attend:** To discuss the feasibility, strategies, and opportunities for improved leverage and complementarity of agency and industry.
+**Why attend:** To discuss the opportunities and strategies for improved leverage and complementarity of laboratory, university, and industry scientific software efforts.
 
 **Slides:** [LSSw-Panel10.pdf](files/LSSwMeeting10Panel.pdf)
 
