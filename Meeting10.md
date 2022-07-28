@@ -4,7 +4,7 @@
 
 **Topic:** Expanding Laboratory, University, and Industry Collaborations: An Industry Panel Discussion
 
-**Description:** The open-source scientific software community benefits from complementary and leveraged contributions from universities, laboratories, and industry. Numerous partnerships are already in place but more opportunities exist. The cost of making high-quality scientific software libraries and tools has decreased due to widely used tools and platforms such as GitHub, and the need for high-quality software ecosystems has increased due to growing scientific demands and increased interconnection between scientific disciplines.  The importance of collaboration in sustaining and leveraging laboratory, university, and industry investments is even more important as we go forward.
+**Description:** The open-source scientific software community benefits from complementary and leveraged contributions from universities, laboratories, and industry. Numerous partnerships are already in place, but more opportunities exist. The cost of making high-quality scientific software libraries and tools has decreased due to widely used tools and platforms such as GitHub, and the need for high-quality software ecosystems has increased due to growing scientific demands and increased interconnection between scientific disciplines.  The importance of collaboration in sustaining and leveraging laboratory, university, and industry investments is even more important as we go forward.
 
 In this panel discussion, we bring community members with strong industry experience together to explore how we can further improve leverage and complementarity so that the whole scientific community can realize the benefits of new software capabilities as they emerge.
 
@@ -12,7 +12,7 @@ This month our panelists are:
 
 - John Cary, Tech-X Corp
 - Sarah Knepper, Intel Corp
-- Pete Mendrygal, HPE, Inc
+- Pete Mendygral, HPE, Inc
 - Jeff Larkin, NVIDIA Corp
 - Bob Lucas, ANSYS, Inc
 
