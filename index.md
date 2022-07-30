@@ -1,16 +1,15 @@
 # Leadership Scientific Software (LSSw) Portal
 
-*The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software*
+*The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.  Meeting Series 1 is complete.  Slides and recordings are available below.  Meeting Series 2 will start in Fall 2022.*
 
 ## Quick links
-- [Meeting 10 Information](Meeting10.md) Meeting 10 is July 28, 2022, 3 - 4:30 pm ET
-- [Direct link to Town Hall Zoom Registration Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsdO6oqzItGmIj7DFqqd3apnZ3EGwH0xM).  Single registration for first year of meetings.
-- [Meeting 10 (July 28) Information](Meeting10.md)
+- [Direct link to Town Hall Zoom Registration Page - TBD]().  Single registration for first year of meetings.
 - [Contribute a white paper or reference](Contribute.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 - [FAQs](FAQ.md)
 
 ## Previous meetings
+- [Slides and video from Meeting 10](Meeting10.md)
 - [Slides and video from Meeting 9](Meeting9.md)
 - [Slides and video from Meeting 8](Meeting8.md)
 - [Slides and video from Meeting 7](Meeting7.md)
