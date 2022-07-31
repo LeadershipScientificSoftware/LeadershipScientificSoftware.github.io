@@ -30,5 +30,5 @@ We hope that the discussions during the town hall events will grow the leadershi
 | Mar 17, 2022| 3 - 4:30 pm ET | Scientific Software Ecosystems: A panel discussion | [Meeting 6](Meeting6.md) |
 | Apr 21, 2022| 3 - 4:30 pm ET | Expanding the Scope of What is Reusable: A panel discussion | [Meeting 7](Meeting7.md) |
 | May 19, 2022| 3 - 4:30 pm ET | Open Q&A | [Meeting 8](Meeting8.md) |
-| Jun 16, 2022| 3 - 4:30 pm ET | DOE ASCR Software-Stewardship Presentation and Discussion | [Meeting 9](Meeting9.md)] |
+| Jun 16, 2022| 3 - 4:30 pm ET | DOE ASCR Software-Stewardship Presentation and Discussion | [Meeting 9](Meeting9.md) |
 | Jul 28, 2022| 3 - 4:30 pm ET | Expanding Laboratory, University, and Industry Collaborations: An Industry Panel Discussion | [Meeting 10](Meeting10.md) |
