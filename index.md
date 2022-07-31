@@ -3,7 +3,7 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.  Meeting Series 1 is complete.  Slides and recordings are available below.  Meeting Series 2 will start in Fall 2022.*
 
 ## Quick links
-- [Direct link to Town Hall Zoom Registration Page - TBD]().  Single registration for first year of meetings.
+- [Direct link to Town Hall Zoom Registration Page - TBA]().  Single registration for second year of meetings.
 - [Contribute a white paper or reference](Contribute.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 - [FAQs](FAQ.md)
