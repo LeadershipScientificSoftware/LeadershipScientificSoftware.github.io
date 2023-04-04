@@ -4,7 +4,7 @@
 
 ## Quick links
 - [Direct link to Town Hall Zoom Registration Page - TBA]().  Single registration for second series of meetings.
-- [Meeting 11 Details](Meeting11.md)
+- [Details of Meeting 11, April 20, 2023, 3 - 4:30 pm ET](Meeting11.md)
 - [Contribute a white paper or reference](Contribute.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 - [FAQs](FAQ.md)
