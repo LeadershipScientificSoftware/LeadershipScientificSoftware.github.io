@@ -7,11 +7,11 @@
 **Description:** On Monday, April 3, 2023, the US Department of Energy Office of Advanced Scientific Computing Research (ASCR) announced the selection of six "seed" projects to collaboratively plan for software-ecosystem sustainment as the US Exascale Computing Project ends.  In this meeting, the PIs of these seed projects will participate in a panel discussion.
 
 
-This month our panelists are:
+Panelists, their affiliations, and seed project titles are:
 
 - Anshu Dubey, Argonne National Lab, _COLABS: Collaboration of Oak Ridge National Lab, LBNL, and ANL for Better Software_
 - Rafael Ferreira da Silva, Oak Ridge National Lab, _Center for Sustaining Workflows and Application Services_
-- Michael Heroux, Sandia National Labs, _Toward a Post-ECP Software-Sustainability Organization (PESO)_
+- Michael Heroux, Sandia National Labs, _PESO: Toward a Post-ECP Software-Sustainability Organization_
 - Terry Jones, Oak Ridge National Lab, _STEP: Sustainable Tools Ecosystem Project_
 - Keita Teranishi, Oak Ridge National Lab, _S4PST: Sustainability for Node Level Programming Systems and Tools_
 - Gregory Watson, Oak Ridge National Lab, _Open Scientific Software Foundation_
