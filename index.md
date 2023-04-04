@@ -1,9 +1,10 @@
 # Leadership Scientific Software (LSSw) Portal
 
-*The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.  Meeting Series 1 is complete.  Slides and recordings are available below.  Meeting Series 2 will start in Fall 2022.*
+*The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.  Meeting Series 1 is complete.  Slides and recordings are available below.  Meeting Series 2 will start in April 2023.*
 
 ## Quick links
-- [Direct link to Town Hall Zoom Registration Page - TBA]().  Single registration for second year of meetings.
+- [Direct link to Town Hall Zoom Registration Page - TBA]().  Single registration for second series of meetings.
+- [Meeting 11 Details](Meeting11.md)
 - [Contribute a white paper or reference](Contribute.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 - [FAQs](FAQ.md)
