@@ -3,9 +3,8 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.  Meeting Series 1 is complete.  Slides and recordings are available below.  Meeting Series 2 will start in April 2023.*
 
 ## Quick links
-- [Direct link to Town Hall Zoom Registration Page - TBA]().  Single registration for second series of meetings.
+- [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
 - [Details of Meeting 11, April 20, 2023, 3 - 4:30 pm ET](Meeting11.md)
-- [Contribute a white paper or reference](Contribute.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 - [FAQs](FAQ.md)
 
