@@ -13,7 +13,7 @@ We hope that the discussions during the town hall events will grow the leadershi
 - **Who may attend:** We welcome anyone who will respectfully engage in the discussion
 - **Format:** Monthly 90-minute virtual meetings via Zoom using Zoom registration
 - **Schedule:** Third Thursday each month from 3 - 4:30 pm ET
-- **Registration:** [Zoom Registration Page - TBD]().  Single registration for second year of meetings.
+- **Registration:** [Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
 
 ### Meeting Details 
 
