@@ -33,7 +33,9 @@ PESO welcomes engagement with stakeholders and partners:
 - **US Agencies:** PESO anticipates collaborating with other US agencies on making DOE-sponsored software available to their users and assuring compatibility with their own software environments.
 
 ### How to become part of the PESO effort
-Check back on this page for engagement opportunities.
+- PESO and the other seed projects are engaging with the scientific software community via LSSw Town Halls.  See [lssw.io](https://lssw.io) for details.
+- PESO is planning an in-person workshop at Argonne National Laboratory on June 8 - 9, 2023. Stay tuned for details.
+- Check back on this page for additional engagement opportunities.
 
 ### PESO Leadership Team
 - Michael Heroux (Sandia National Laboratories; PI)
