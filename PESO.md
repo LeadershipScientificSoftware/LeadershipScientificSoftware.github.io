@@ -23,10 +23,11 @@ PESO welcomes engagement with software teams and communities:
     - Research software engineering training (e.g., IDEAS, HPC Best Practices webinars)
     - Community outreach (e.g., efforts based on CSCCE strategies)
     - Software foundations (e.g., NumFOCUS, Linux Software Foundation)
+
 We anticipate that CoP teams will offer opportunities for product communities and teams to participate in organized activities where team participation is funded by their institution and project funds.
 
 PESO welcomes engagement with stakeholders and partners:
-- **Application teams:** 
+- **Application teams:** Through regular planning and interaction, PESO and its software community teams will engage with application teams who depend upon DOE-sponsored libaries and tools.  PESO will coordinate delivery of capabilities via E4S, container, cloud and facilities environments to assure that application teams have access to the products they need in a variety of settings.
 - **DOE Computing Facilities:** Through regular planning and interaction, PESO intends to work with facilities's staff to provide and support a full stack of DOE-sponsored libraries and tools via E4S, in collaboration with commercial E4S partners. PESO will coordinate with DOE-sponsored software team to assure that teams are informed of user and facility needs.  We anticipate annual planning cycles with change management during cycles.
 - **Computer system vendors:** PESO anticipates a variety of vendor engagements to assure that DOE-sponsor libraries and tools are available and supported as part of or as complementary to vendor software.
 - **Commercial software providers:** PESO anticipates working with commercial providers in the co-development and support of DOE-sponsored software to industry, US agencies, and international partners.
