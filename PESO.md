@@ -5,8 +5,8 @@ The PESO Project seeks to establish robust, sustainable scientific software capa
 
 Through the above collaborations, PESO proposes to provide the following:
 - Software stacks and infrastructure that provide software teams with testing, hardening, integration, distribution, and intermediate user support of their product, either as the final destination for their product, an early-access staging environment for pre-release versions of their product, or both. Specific support includes:
-    - **Spack:** Assistance in creating and expanding Spack capabilities for product build, testing, integration, and distribution.
-    - **E4S:** Support for product integration and distribution in the Extreme-scale Scientific Software Stack (E4S) as needed depending on a product team’s distribution strategy.
+    - **Spack:** Assistance in creating and expanding [Spack](https://spack.io) capabilities for product build, testing, integration, and distribution.
+    - **E4S:** Support for product integration and distribution in the Extreme-scale Scientific Software Stack ([E4S](https://e4s.io)) as needed depending on a product team’s distribution strategy.
     - **CI:** Continuous integration testing on a variety of commodity and emerging target vendor hardware/software stacks.
     - **Software quality improvement:** Assistance to improve product compatibility with E4S community policies.
 - Opportunities for software teams and communities to engage with stakeholders from DOE, vendors, application communities, cross-lab management, and more.
@@ -20,8 +20,8 @@ PESO welcomes engagement with software teams and communities:
     - Processes for onramping and offramping products as demands change, while still respecting sustainability requirements
     - Sustainability strategies that include hardening new features and delivering stable features to their designated support organization (e.g., LLVM, vendor stack, E4S, etc)
 - **Communities of practice:** PESO welcomes engagement with cross-cutting communities of practice (CoPs) that are organized around important software product concerns.  Examples include:
-    - Research software engineering training (e.g., IDEAS, HPC Best Practices webinars)
-    - Community outreach (e.g., efforts based on CSCCE strategies)
+    - Research software engineering training (e.g., [IDEAS](https://ideas-productivity.org), HPC Best Practices webinars)
+    - Community outreach (e.g., efforts based on [CSCCE](https://cscce.org) strategies)
     - Software foundations (e.g., NumFOCUS, Linux Software Foundation)
 
 We anticipate that CoP teams will offer opportunities for product communities and teams to participate in organized activities where team participation is funded by their institution and project funds.
