@@ -21,8 +21,8 @@ PESO welcomes engagement with software teams and communities:
     - Sustainability strategies that include hardening new features and delivering stable features to their designated support organization (e.g., LLVM, vendor stack, E4S, etc)
 - **Communities of practice:** PESO welcomes engagement with cross-cutting communities of practice (CoPs) that are organized around important software product concerns.  Examples include:
     - Research software engineering training (e.g., [IDEAS](https://ideas-productivity.org), HPC Best Practices webinars)
-    - Community outreach (e.g., efforts based on [CSCCE](https://cscce.org) strategies)
-    - Software foundations (e.g., NumFOCUS, Linux Software Foundation)
+    - Community outreach (e.g., efforts based on [the Center for Scientific Collaboration and Community Engagement (CSCCE)](https://cscce.org) strategies)
+    - Software foundations (e.g., [NumFOCUS](https://numfocus.org), [Linux Foundation](https://www.linuxfoundation.org))
 
 We anticipate that CoP teams will offer opportunities for product communities and teams to participate in organized activities where team participation is funded by their institution and project funds.
 
