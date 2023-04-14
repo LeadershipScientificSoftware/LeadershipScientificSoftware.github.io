@@ -13,7 +13,7 @@ On Monday, April 3, 2023, the US Department of Energy Office of Advanced Scienti
 
 To learn the basics of each seed team, read their proposals
 
-- [COLABS Proposa](files/COLABS-Proposal.pdf)
+- [COLABS Proposal](files/COLABS-Proposal.pdf)
 - [Center for Sustaining Workflows and Application Services Proposal](files/WAS-Proposal.pdf)
 - [PESO Proposal](files/PESO-Proposal.pdf)
 - [STEP Proposal]()
