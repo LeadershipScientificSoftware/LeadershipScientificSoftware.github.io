@@ -5,9 +5,14 @@
 ## Quick links
 - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
 - [Details of Meeting 11, April 20, 2023, 3 - 4:30 pm ET](Meeting11.md)
-- [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
+- [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
+
+## Upcoming meetings
+- [Better scientific software via cross-team organization](), May 18, 2023
+- [TBD](), June 15, 2023
+- [Software Foundations](), July 20, 2023 
 
 ## Previous meetings
 - [Slides and video from Meeting 10](Meeting10.md)

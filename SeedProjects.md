@@ -7,4 +7,19 @@ On Monday, April 3, 2023, the US Department of Energy Office of Advanced Scienti
 - [PESO: Toward a Post-ECP Software-Sustainability Organization](PESO.md)
 - [STEP: Sustainable Tools Ecosystem Project - TBA]()
 - [S4PST: Sustainability for Node Level Programming Systems and Tools - TBA]()
-- [Open Scientific Software Foundation - TBA]()
+- [OSSF: Open Scientific Software Foundation - TBA]()
+
+### Seed Proposals
+
+To learn the basics of each seed team, read their proposals
+
+- [COLABS Proposa](files/COLABS-Proposal.pdf)
+- [Center for Sustaining Workflows and Application Services Proposal](files/WAS-Proposal.pdf)
+- [PESO Proposal](files/PESO-Proposal.pdf)
+- [STEP Proposal]()
+- [S4PST Proposal](files/S4PST-Proposal.pdf)
+- [OSSF Proposal](files/OSSF-Proposal.pdf)
+
+### Meet Seed Team Members at Upcoming Events
+
+Seed projects team members travel to events. [Find out where to meet up](SeedsAtEvents.md)
