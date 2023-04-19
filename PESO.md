@@ -14,15 +14,16 @@ Through the above collaborations, PESO proposes to provide the following:
 
 PESO welcomes engagement with software teams and communities:
 - **Individual product teams:** We welcome the involvement of individual teams whose products would benefit DOE application users and facilities. While individual teams are welcome, we encourage each product team to also participate in a product community of compatible and complementary products to further enhance their activities.
-- **Product communities:** PESO welcomes engagement from new and established product communities.  Each community should work with its member product teams to define community policies that drive quality expectations.  If community product teams intend to use E4S for any kind of distribution, these policies should encompass E4S community policies and, as needed, relevant adaptations of these policies.  Product communities can come in many forms.  We anticipate that the so-called Software Development Kits (SDKs) presently part of the ECP will be a starting point for product communities after ECP. We also expect new product communities to emerge, for example, in AI/ML for science. PESO intends to interact with product communities on a variety of important topics, including:
+- **Software product communities:** PESO welcomes engagement from new and established software product communities.  Each community should work with its member product teams to define community policies that drive quality expectations.  If community product teams intend to use E4S for any kind of distribution, these policies should encompass E4S community policies and, as needed, relevant adaptations of these policies.  Software product communities can come in many forms.  We anticipate that the so-called Software Development Kits (SDKs) presently part of the ECP will be a starting point for product communities after ECP. We also expect new product communities to emerge, for example, in AI/ML for science. PESO intends to interact with product communities on a variety of important topics, including:
     - Assuring representation of important products in their chosen domain, possibly including vendor products that interact strongly with DOE-developed products
     - Governance structures that enables representation from member product teams and community stakeholders
     - Processes for onramping and offramping products as demands change, while still respecting sustainability requirements
     - Sustainability strategies that include hardening new features and delivering stable features to their designated support organization (e.g., LLVM, vendor stack, E4S, etc)
-- **Communities of practice:** PESO welcomes engagement with cross-cutting communities of practice (CoPs) that are organized around important software product concerns.  Examples include:
+- **Communities of practice:** PESO welcomes engagement with cross-cutting communities of practice (CoPs) that are organized around important software development and use concerns.  Examples include:
     - Research software engineering training (e.g., [IDEAS](https://ideas-productivity.org), HPC Best Practices webinars)
     - Community outreach (e.g., efforts based on [the Center for Scientific Collaboration and Community Engagement (CSCCE)](https://cscce.org) strategies)
     - Software foundations (e.g., [NumFOCUS](https://numfocus.org), [Linux Foundation](https://www.linuxfoundation.org))
+    - Workforce development (e.g., [US RSE](https://us-rse.org), [BSSw Fellows](https://bssw.io/fellowship), and [Sustainable Research Pathways](https://bssw.io/events/sustainable-research-pathways-srp))
 
 We anticipate that CoP teams will offer opportunities for product communities and teams to participate in organized activities where team participation is funded by their institution and project funds.
 
@@ -35,8 +36,9 @@ PESO welcomes engagement with stakeholders and partners:
 
 ### How to become part of the PESO effort
 - PESO and the other seed projects are engaging with the scientific software community via LSSw Town Halls.  See [lssw.io](https://lssw.io) for details.
-- PESO is planning an in-person workshop at Argonne National Laboratory on June 8 - 9, 2023. Stay tuned for details.
-- Check back on this page for additional engagement opportunities.
+- PESO is planning an in-person workshop at Argonne National Laboratory on June 8 - 9, 2023. Workshop information and registration is available: [https://bit.ly/peso-workshop-june2023](https://bit.ly/peso-workshop-june2023).
+- PESO is requesting community input by submitting responses to the following Google Form: [https://bit.ly/peso-2023-input](https://bit.ly/peso-2023-input)
+- Check back on this page for additional engagement opportunities
 
 ### PESO Leadership Team
 - Michael Heroux (Sandia National Laboratories; PI)
