@@ -22,4 +22,4 @@ In opening remarks each panelist will briefly describe their seed project.  Disc
 
 **Slides:** [LSSw-Panel11.pdf](files/LSSwMeeting11Panel.pdf)
 
-**Video:** [Zoom Recording]()
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/7RqWhiWbxNa2ityV2-WnBHSohuKmOVPBIEuNMDf45M1Zb-D7AkVqzRR8_8g5YCk6.L3d58syFq_ItaaiU?startTime=1682017208000)
