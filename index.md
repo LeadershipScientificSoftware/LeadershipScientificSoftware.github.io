@@ -4,7 +4,7 @@
 
 ## Quick links
 - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- [Details of Meeting 12, May 18, 2023, 3 - 4:30 pm ET](Meeting11.md)
+- [Details of Meeting 12, May 18, 2023, 3 - 4:30 pm ET](Meeting12.md)
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
