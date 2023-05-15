@@ -12,7 +12,7 @@ In opening remarks, the panelists will briefly describe their project's plan for
 Panelists, their affiliations, and seed project titles are:
 
 - Representatives from the ECP Broadening Participation Initiative
-- Anshu Dubey, Argonne National Lab, _COLABS: Collaboration of Oak Ridge National Lab, LBNL, and ANL for Better Software_
+- David Bernholdt, Argonne National Lab, _COLABS: Collaboration of Oak Ridge National Lab, LBNL, and ANL for Better Software_
 - Rafael Ferreira da Silva, Oak Ridge National Lab, _Center for Sustaining Workflows and Application Services_
 - Lois Curfman McInnes, Argonne National Lab, _PESO: Toward a Post-ECP Software-Sustainability Organization_
 - Terry Jones, Oak Ridge National Lab, _STEP: Sustainable Tools Ecosystem Project_
