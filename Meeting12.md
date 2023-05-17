@@ -17,7 +17,7 @@ Panelists, their affiliations, and seed project titles are:
 - Lois Curfman McInnes, Argonne National Lab, _PESO: Toward a Post-ECP Software-Sustainability Organization_
 - Terry Jones, Oak Ridge National Lab, _STEP: Sustainable Tools Ecosystem Project_
 - Keita Teranishi, Oak Ridge National Lab, _S4PST: Sustainability for Node Level Programming Systems and Tools_
-- Gregory Watson, Oak Ridge National Lab, _Open Scientific Software Foundation_
+- Addi Thakur Malviya, Oak Ridge National Lab, _Open Scientific Software Foundation_
 
 In opening remarks each panelist will briefly describe their seed project.  Discussion will continue with questions and answers.
 
