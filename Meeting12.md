@@ -27,4 +27,4 @@ In opening remarks each panelist will briefly describe their seed project.  Disc
 
 [**HPC Workforce Input 2023 Form**](https://bit.ly/hpc-workforce-input2023)
 
-**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/5enjwFPI-9BzpXCypBK8jm7GUdqYyOlem_4APZzAKNdYWr5yE5ERcupPbXzG4cIM.sekgxvQuYwJWK9OY)
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/ncgMkrVEmKbKNisS--aLECslXX2fyszpzEdr8bvmB5EKMrvaC196uTsa0y5AvOKW.5YBlHuA40e4E2P0q)
