@@ -25,4 +25,6 @@ In opening remarks each panelist will briefly describe their seed project.  Disc
 
 **Slides:** [LSSw-Panel12.pdf](files/LSSwMeeting12Panel.pdf)
 
+[**HPC Workforce Input 2023 Form**](https://bit.ly/hpc-workforce-input2023)
+
 **Video:** [Zoom Recording]()
