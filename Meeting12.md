@@ -14,10 +14,10 @@ Panelists, their affiliations, and seed project titles are:
 - Representatives from the ECP Broadening Participation Initiative
 - David Bernholdt, Argonne National Lab, _COLABS: Collaboration of Oak Ridge National Lab, LBNL, and ANL for Better Software_
 - Rafael Ferreira da Silva, Oak Ridge National Lab, _Center for Sustaining Workflows and Application Services_
-- Lois Curfman McInnes, Argonne National Lab, _PESO: Toward a Post-ECP Software-Sustainability Organization_
 - Mike Jantz, Oak Ridge National Lab, _STEP: Sustainable Tools Ecosystem Project_
 - Keita Teranishi, Oak Ridge National Lab, _S4PST: Sustainability for Node Level Programming Systems and Tools_
 - Addi Thakur Malviya, Oak Ridge National Lab, _Open Scientific Software Foundation_
+- Lois Curfman McInnes, Argonne National Lab, _PESO: Toward a Post-ECP Software-Sustainability Organization_
 
 In opening remarks each panelist will briefly describe their seed project.  Discussion will continue with questions and answers.
 
