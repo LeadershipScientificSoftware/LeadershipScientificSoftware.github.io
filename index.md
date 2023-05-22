@@ -1,19 +1,19 @@
 # Leadership Scientific Software (LSSw) Portal
 
-*The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.  Meeting Series 1 is complete.  Slides and recordings are available below.  Meeting Series 2 will start in April 2023.*
+*The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.*
 
 ## Quick links
 - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- [Details of Meeting 12, May 18, 2023, 3 - 4:30 pm ET](Meeting12.md)
+- [Details of Meeting 13, June 15, 2023, 3 - 4:30 pm ET, _Updates from Post-ECP Seed Project Community Meeting_](Meeting13.md)
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 
 ## Upcoming meetings
-- [Better scientific software via cross-team organization](), June 15, 2023
 - [Software Foundations](), July 20, 2023 
 
 ## Previous meetings
+- [Slides and video from Meeting 12](Meeting12.md)
 - [Slides and video from Meeting 11](Meeting11.md)
 - [Slides and video from Meeting 10](Meeting10.md)
 - [Slides and video from Meeting 9](Meeting9.md)
