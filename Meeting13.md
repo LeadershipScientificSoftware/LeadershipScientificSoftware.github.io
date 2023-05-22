@@ -1,8 +1,8 @@
 ## Meeting 13
 
-**Time:** Thursday, June 22, 2023, 3 - 4:30 pm ET
+**Time:** Thursday, June 15, 2023, 3 - 4:30 pm ET
 
-**Topic:** Outbriefs from Post-ECP Seed Project Community Meetings
+**Topic:** Updates from Post-ECP Seed Project Community Meetings
 
 **Description:** Many of the Post-ECP Software-Ecosystem Seed Projects have conducted workshops to gather community input and formulate working plans.  During this panel, these projects will provide an outbriefing of these workshop discussions. In opening remarks, the panelists will briefly describe their workshop outcomes. Then we will open up the discussion for Q&A.
 
