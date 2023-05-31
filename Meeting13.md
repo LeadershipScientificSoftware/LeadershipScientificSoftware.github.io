@@ -2,19 +2,21 @@
 
 **Time:** Thursday, June 15, 2023, 3 - 4:30 pm ET
 
-**Topic:** Updates from Post-ECP Seed Project Community Meetings
+**Topic:** Updates from Post-ECP Seed Project Community Outreach
 
-**Description:** Many of the Post-ECP Software-Ecosystem Seed Projects have conducted workshops to gather community input and formulate working plans.  During this panel, these projects will provide an outbriefing of these workshop discussions. In opening remarks, the panelists will briefly describe their workshop outcomes. Then we will open up the discussion for Q&A.
+**Description:** The Post-ECP Software-Ecosystem Seed Projects have conducted workshops and otherwise reached out to the scientific community to gather input and formulate working plans.  During this panel, these projects will provide an outbriefing of these  discussions. In opening remarks, the panelists will briefly describe their outcomes. Then we will open up the discussion for Q&A.
 
 
 Panelists, their affiliations, and seed project titles are:
 
-- Rafael Ferreira da Silva, Oak Ridge National Lab, _Center for Sustaining Workflows and Application Services_
+- Anshu Dubey, Argonne National Lab, _COLABS: Collaboration of Oak Ridge National Lab, LBNL, and ANL for Better Software_
+- Rafael Ferreira da Silva, Oak Ridge National Lab, _SWAS: Center for Sustaining Workflows and Application Services_
 - Terry Jones, Oak Ridge National Lab, _STEP: Sustainable Tools Ecosystem Project_
 - Keita Teranishi, Oak Ridge National Lab, _S4PST: Sustainability for Node Level Programming Systems and Tools_
 - Michael Heroux, Sandia National Labs, _PESO: Toward a Post-ECP Software-Sustainability Organization_
+- Gregory Watson, Oak Ridge National Lab, _OSSF: Open Scientific Software Foundation_
 
-**Why attend:** To learn about progress made to-date by some of the seed projects during their workshops.
+**Why attend:** To learn about progress made to-date by the seed projects from their outreach activities.
 
 **Slides:** [LSSw-Panel13.pdf](files/LSSwMeeting13Panel.pdf)
 
