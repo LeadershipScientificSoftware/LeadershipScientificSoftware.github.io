@@ -1,6 +1,6 @@
 ## PESO Meeting 1
 
-[**Sign up for Zoom link**](https://exascaleproject.zoomgov.com/meeting/register/vJIsc-itrjMtE9gQwa5hO3HxoqbvJw0nwyo)
+[**To attend this meeting, sign up for a Zoom link here**](https://exascaleproject.zoomgov.com/meeting/register/vJIsc-itrjMtE9gQwa5hO3HxoqbvJw0nwyo)
 
 **Time:** Tuesday, June 20, 2023, 3 - 4:30 pm ET
 
