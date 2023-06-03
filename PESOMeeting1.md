@@ -1,5 +1,7 @@
 ## PESO Meeting 1
 
+[**Sign up for Zoom link**](https://exascaleproject.zoomgov.com/meeting/register/vJIsc-itrjMtE9gQwa5hO3HxoqbvJw0nwyo)
+
 **Time:** Tuesday, June 20, 2023, 3 - 4:30 pm ET
 
 **Topic:** The PESO post-ECP Software-Ecosystem Sustainment Project: An overview and update
