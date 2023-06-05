@@ -1,4 +1,4 @@
-## Science Impact via Leadership Software Investment: A Holistic, Collaborative Approach from the PESO Project
+## Science Impact and PESO
 
 [**To attend this meeting, sign up for a Zoom link here**](https://exascaleproject.zoomgov.com/meeting/register/vJIsc-itrjMtE9gQwa5hO3HxoqbvJw0nwyo)
 
