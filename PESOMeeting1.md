@@ -10,7 +10,9 @@
 
 The legacy of ECP must include efforts to increase the impact of ECP investments on many more scientific problems within DOE and outside.  A critical element to this success is robustly building on the collaborative efforts that established the libraries and tools that were essential ECP success.  The ecosystem composed from these libraries and tools must be further supported, expanded, and leveraged to realize the science impact of Exascale systems and their sucessors. 
 
-The PESO team will give an overview of our plan for post-ECP software-ecosystem sustainment, an update on current activities, and welcome questions and comments from the community.  While our efforts are informed by the PESO team ECP experiences, the PESO approach is notably difference from ECP, emphasizing peer collaboration vs. hierarchy, leveraging institutional finance and process infrastructure vs. a paralell and separate project-specific approach, a dynamic application engagement strategy vs. a focus on pre-defined apps, and more.  All community members are welcome.
+The PESO team will give an overview of our plan for post-ECP software-ecosystem sustainment, an update on current activities, and welcome questions and comments from the community.  While our efforts are informed by the PESO team ECP experiences, the PESO approach is notably difference from ECP, emphasizing peer collaboration vs. hierarchy, leveraging institutional finance and process infrastructure vs. a paralell and separate project-specific approach, a dynamic application engagement strategy vs. a focus on pre-defined apps, a broader engagement with industry and other agencies, and more.  All of our efforts will be conducted upon a foundation of a diverse and inclusive community that provides compelling and stable career paths for all community members. 
+
+All community members are welcome to join this event. Please help us create a plan that leads to post-ECP software-ecosystem sustainment success.
 
 
 Panelists: [The PESO Leadership Team](PESOTeam.md)
