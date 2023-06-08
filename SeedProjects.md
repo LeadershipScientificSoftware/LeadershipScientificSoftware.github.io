@@ -15,7 +15,7 @@ To learn the basics of each seed team, read their proposals
 
 - [COLABS Proposal](files/COLABS-Proposal.pdf)
 - [PESO Proposal](files/PESO-Proposal.pdf)
-- [STEP Proposal]()
+- [STEP Proposal](files/STEP-Proposal.pdf)
 - [SWAS Proposal](files/WAS-Proposal.pdf)
 - [S4PST Proposal](files/S4PST-Proposal.pdf)
 - [OSSF Proposal](files/OSSF-Proposal.pdf)
