@@ -6,7 +6,7 @@
 
 **Topic:** Science Impact via Leadership Software Investment: A Holistic, Collaborative Approach from the PESO Project
 
-**Description:** The US Exascale Computing Project (ECP) elevated the degree of collaboration across DOE labs, US industry, other US agencies and beyond, to address the challenge of producing a new generation of applications, libraries, tools, and processes that unlocked the performance and scientific potential of DOE Exascale computing systems.  
+**Description:** The US Exascale Computing Project (ECP) elevated the degree of collaboration across DOE labs, universities, US industry, other US agencies and beyond, to address the challenge of producing a new generation of applications, libraries, tools, and processes that unlocked the performance and scientific potential of DOE Exascale computing systems.  
 
 The legacy of ECP must include efforts to increase the impact of ECP investments on many more scientific problems within DOE and outside.  A critical element to this success is robustly building on the collaborative efforts that established the libraries and tools that were essential to ECP success.  The ecosystem composed from these libraries and tools must be further supported, expanded, and leveraged to realize the scientific impact of Exascale systems and their successors. 
 
