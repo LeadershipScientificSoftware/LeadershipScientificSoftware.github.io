@@ -19,6 +19,6 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Why attend:** To discuss the experience, opportunities and challenges of technical software ecosystems present in other scientific communities.
 
-**Slides:** [LSSw-Panel6.pdf](files/LSSwMeeting6Panel.pdf)
+**Slides:** [LSSw-Panel6.pdf](../files/LSSwMeeting6Panel.pdf)
 
 **Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/fxg10UP1mIfJQMiWi0OQEWUYJMhh1JVzCJ7dxLkludPVObGxPgbRgAxsMJ350Mjj.5rEKoiLttfW2iUjQ)

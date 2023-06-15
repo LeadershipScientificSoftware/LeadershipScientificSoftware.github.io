@@ -20,6 +20,6 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Why attend:** To discuss the feasibility, strategies, and opportunities for expanding the scope of functionality that can be encoded in reusable components, libraries, and tools to better include more application-specific functionality.
 
-**Slides:** [LSSw-Panel7.pdf](files/LSSwMeeting7Panel.pdf)
+**Slides:** [LSSw-Panel7.pdf](../files/LSSwMeeting7Panel.pdf)
 
 **Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/VYImNihnVX2Iv3iFz-Ot6_SYVUkM-BlaynTGKlJ147ClOr-FJU_Y4S2w1yYLrrOw.uz-NDZbXMA3cbsBM)

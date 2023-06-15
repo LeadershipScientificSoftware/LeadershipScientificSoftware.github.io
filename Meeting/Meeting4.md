@@ -19,6 +19,6 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Why attend:** To discuss the potential expansion and limits of leadership scientific software beyond high-performance computing.
 
-**Slides:** [LSSw-Panel4.pdf](files/LSSwMeeting4Panel.pdf)
+**Slides:** [LSSw-Panel4.pdf](../files/LSSwMeeting4Panel.pdf)
 
 **Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/pWW0ugTI20tUcJphZp9nxeitDWogOM1nhHqRJTdkcLKRx7zaGL_78h1U-1Gv4wtC.gs0Cv-Shw5YdNiTU)

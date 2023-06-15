@@ -25,6 +25,6 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Why attend:** To discuss the opportunities and strategies for improved leverage and complementarity of laboratory, university, and industry scientific software efforts.
 
-**Slides:** [LSSw-Panel10.pdf](files/LSSwMeeting10Panel.pdf)
+**Slides:** [LSSw-Panel10.pdf](../files/LSSwMeeting10Panel.pdf)
 
 **Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/bif5tpZX_lY9K-VZqvZWUAvUzUowl1DIo2vznAQGEX8FEynZfqi6KJiZoSTnSLQA.yQKqd4FkBwQwtnzV)
