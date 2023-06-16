@@ -4,7 +4,7 @@
 
 ## Quick links
 - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- [Details of Meeting 13, June 15, 2023, 3 - 4:30 pm ET, _Updates from Post-ECP Seed Project Community Outreach_](Meeting13.md)
+- [Details of Meeting 13, June 15, 2023, 3 - 4:30 pm ET, _Updates from Post-ECP Seed Project Community Outreach_](Meeting/Meeting13.md)
 - PESO Overview, Q&A, June 20, 2023, 3 - 4:30 pm ET: [Science Impact and PESO](PESOMeeting1.md)
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
@@ -14,18 +14,18 @@
 - [Software Foundations](), July 20, 2023 
 
 ## Previous meetings
-- [Slides and video from Meeting 12](Meeting12.md)
-- [Slides and video from Meeting 11](Meeting11.md)
-- [Slides and video from Meeting 10](Meeting10.md)
-- [Slides and video from Meeting 9](Meeting9.md)
-- [Slides and video from Meeting 8](Meeting8.md)
-- [Slides and video from Meeting 7](Meeting7.md)
-- [Slides and video from Meeting 6](Meeting6.md)
-- [Slides and video from Meeting 5](Meeting5.md)
-- [Slides and video from Meeting 4](Meeting4.md)
-- [Slides and video from Meeting 3](Meeting3.md)
-- [Slides and video from Meeting 2](Meeting2.md)
-- [Slides and video from Meeting 1](Meeting1.md)
+- [Slides and video from Meeting 12](Meeting/Meeting12.md)
+- [Slides and video from Meeting 11](Meeting/Meeting11.md)
+- [Slides and video from Meeting 10](Meeting/Meeting10.md)
+- [Slides and video from Meeting 9](Meeting/Meeting9.md)
+- [Slides and video from Meeting 8](Meeting/Meeting8.md)
+- [Slides and video from Meeting 7](Meeting/Meeting7.md)
+- [Slides and video from Meeting 6](Meeting/Meeting6.md)
+- [Slides and video from Meeting 5](Meeting/Meeting5.md)
+- [Slides and video from Meeting 4](Meeting/Meeting4.md)
+- [Slides and video from Meeting 3](Meeting/Meeting3.md)
+- [Slides and video from Meeting 2](Meeting/Meeting2.md)
+- [Slides and video from Meeting 1](Meeting/Meeting1.md)
 - [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  
  
 ## Background

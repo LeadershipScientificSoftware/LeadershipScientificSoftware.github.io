@@ -20,6 +20,6 @@ In opening remarks, panelists briefly address the following questions from their
 
 **Why attend:** To discuss the potential expansion and limits of leadership scientific software.
 
-**Slides:** [LSSw-Panel3.pdf](files/LSSwMeeting3Panel.pdf)
+**Slides:** [LSSw-Panel3.pdf](../files/LSSwMeeting3Panel.pdf)
 
 **Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/F2UlkpMicw3ZvfLy9vljfh9tuKabQaR1JeLHTI8pGrO4Q_LFckXiYUiygrjBpZFi.soQgintkVtXlzFAy)
