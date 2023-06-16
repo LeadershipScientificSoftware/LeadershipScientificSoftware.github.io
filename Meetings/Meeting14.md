@@ -13,6 +13,6 @@ Panelists, their affiliations, and seed project titles are:
 
 **Why attend:** To learn about software foundations and their potential for scientific computing.
 
-**Slides:** [LSSwMeeting14Panel.pdf](../files/LSSwMeeting14Panel.pdf)
+**Slides:** [LSSwMeeting14Panel.pdf](../files/LSSwMeeting14Panel.pdf) - TBA
 
-**Video:** [Zoom Recording]()
+**Video:** [Zoom Recording]() - TBA
