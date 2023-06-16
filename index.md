@@ -4,8 +4,8 @@
 
 ## Quick links
 - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/Meetings/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- [Details of Meeting 13, June 15, 2023, 3 - 4:30 pm ET, _Updates from Post-ECP Seed Project Community Outreach_](Meetings/Meeting13.md)
 - PESO Overview, Q&A, June 20, 2023, 3 - 4:30 pm ET: [Science Impact and PESO](PESO/PESOMeeting1.md)
+- [Details of Meeting 14, July 20, 2023, 3 - 4:30 pm ET, _Software Foundations_](Meetings/Meeting14.md)
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
