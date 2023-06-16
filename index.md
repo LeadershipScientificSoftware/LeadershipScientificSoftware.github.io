@@ -3,9 +3,9 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.*
 
 ## Quick links
-- [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- [Details of Meeting 13, June 15, 2023, 3 - 4:30 pm ET, _Updates from Post-ECP Seed Project Community Outreach_](Meeting/Meeting13.md)
-- PESO Overview, Q&A, June 20, 2023, 3 - 4:30 pm ET: [Science Impact and PESO](PESOMeeting1.md)
+- [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/Meetings/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
+- [Details of Meeting 13, June 15, 2023, 3 - 4:30 pm ET, _Updates from Post-ECP Seed Project Community Outreach_](Meetings/Meeting13.md)
+- PESO Overview, Q&A, June 20, 2023, 3 - 4:30 pm ET: [Science Impact and PESO](PESO/PESOMeeting1.md)
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
@@ -14,18 +14,19 @@
 - [Software Foundations](), July 20, 2023 
 
 ## Previous meetings
-- [Slides and video from Meeting 12](Meeting/Meeting12.md)
-- [Slides and video from Meeting 11](Meeting/Meeting11.md)
-- [Slides and video from Meeting 10](Meeting/Meeting10.md)
-- [Slides and video from Meeting 9](Meeting/Meeting9.md)
-- [Slides and video from Meeting 8](Meeting/Meeting8.md)
-- [Slides and video from Meeting 7](Meeting/Meeting7.md)
-- [Slides and video from Meeting 6](Meeting/Meeting6.md)
-- [Slides and video from Meeting 5](Meeting/Meeting5.md)
-- [Slides and video from Meeting 4](Meeting/Meeting4.md)
-- [Slides and video from Meeting 3](Meeting/Meeting3.md)
-- [Slides and video from Meeting 2](Meeting/Meeting2.md)
-- [Slides and video from Meeting 1](Meeting/Meeting1.md)
+- [Slides and video from Meeting 13](Meetings/Meeting13.md)
+- [Slides and video from Meeting 12](Meetings/Meeting12.md)
+- [Slides and video from Meeting 11](Meetings/Meeting11.md)
+- [Slides and video from Meeting 10](Meetings/Meeting10.md)
+- [Slides and video from Meeting 9](Meetings/Meeting9.md)
+- [Slides and video from Meeting 8](Meetings/Meeting8.md)
+- [Slides and video from Meeting 7](Meetings/Meeting7.md)
+- [Slides and video from Meeting 6](Meetings/Meeting6.md)
+- [Slides and video from Meeting 5](Meetings/Meeting5.md)
+- [Slides and video from Meeting 4](Meetings/Meeting4.md)
+- [Slides and video from Meeting 3](Meetings/Meeting3.md)
+- [Slides and video from Meeting 2](Meetings/Meeting2.md)
+- [Slides and video from Meeting 1](Meetings/Meeting1.md)
 - [Register for LSSw Town Hall Meetings](LSSwTownHalls.md).  
  
 ## Background

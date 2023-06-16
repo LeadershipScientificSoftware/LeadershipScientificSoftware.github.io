@@ -8,6 +8,6 @@
 
 **Why attend:** To ask your questions about how to expand the scope and improve the sustainability of [leadership](../LeadershipDefinition.md) scientific software.
 
-**Slides:** [LSSw-Panel8.pdf](files/LSSwMeeting8Panel.pdf)
+**Slides:** [LSSwMeeting8Panel.pdf](files/LSSwMeeting8Panel.pdf)
 
 **Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/iRDk233IpuV7mCZctXv307kb35Fw89zmuOb_Gh6ak_BijWWmtuqX04PEqYQAxEc.C8aGdxZ-nnQEx7fn?startTime=1652986915000)

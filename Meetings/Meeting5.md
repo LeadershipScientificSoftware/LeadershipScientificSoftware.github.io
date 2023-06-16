@@ -11,6 +11,6 @@ In opening remarks we will highlight some of the key themes from the previous to
 
 **Why attend:** To help identify key themes at previous town halls.
 
-**Slides:** [LSSw-Panel5.pdf](../files/LSSwMeeting5Panel.pdf)
+**Slides:** [LSSwMeeting5Panel.pdf](../files/LSSwMeeting5Panel.pdf)
 
 **Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/VgXyRamD_tgFOGdd-PnOr-sYTx4F8RgWaqRNDnbnA8k9djUtAaqh0FSe5wTVRvlL.5YEQy3Ip6KjrASnX)

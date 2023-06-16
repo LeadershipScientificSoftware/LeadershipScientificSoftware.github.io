@@ -23,7 +23,7 @@ In opening remarks each panelist will briefly describe their seed project.  Disc
 
 **Why attend:** To learn about preliminary work and plans to address workforce challenges in DOE computing sciences; to share your insights about challenges, best practices, and opportunities for advancing diversity, equity and inclusion in the DOE computing sciences workforce.
 
-**Slides:** [LSSw-Panel12.pdf](../files/LSSwMeeting12Panel.pdf)
+**Slides:** [LSSwMeeting12Panel.pdf](../files/LSSwMeeting12Panel.pdf)
 
 [**HPC Workforce Input 2023 Form**](https://bit.ly/hpc-workforce-input2023)
 
