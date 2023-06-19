@@ -13,7 +13,7 @@ We hope that the discussions during the town hall events will grow the leadershi
 - **Who may attend:** We welcome anyone who will respectfully engage in the discussion
 - **Format:** Monthly 90-minute virtual meetings via Zoom using Zoom registration
 - **Schedule:** Third Thursday each month from 3 - 4:30 pm ET
-- **Registration:** [Zoom Signup Page](https://exascaleproject.zoomgov.com/Meetings/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
+- **Registration:** [Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
 
 ### Meeting Details 
 
@@ -34,4 +34,5 @@ We hope that the discussions during the town hall events will grow the leadershi
 | Jul 28, 2022| 3 - 4:30 pm ET | Expanding Laboratory, University, and Industry Collaborations: An Industry Panel Discussion | [Meeting 10](Meetings/Meeting10.md) |
 | Apr 20, 2023| 3 - 4:30 pm ET | Introducing the Post-ECP Software-Ecosystem Sustainment Seed Projects | [Meeting 11](Meetings/Meeting11.md)
 | May 18, 2023| 3 - 4:30 pm ET | Promoting inclusive and equitable research | [Meeting 12](Meetings/Meeting12.md)
-| June 15, 2023| 3 - 4:30 pm ET | Promoting inclusive and equitable research | [Meeting 12](Meetings/Meeting12.md)
+| Jun 15, 2023| 3 - 4:30 pm ET | Updates from Post-ECP Seed Project Community Outreach | [Meeting 13](Meetings/Meeting13.md)
+| Jul 20, 2023| 3 - 4:30 pm ET | Software Foundations: A Panel Discussion | [Meeting 14](Meetings/Meeting14.md)
