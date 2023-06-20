@@ -23,4 +23,4 @@ Panelists: [The PESO Leadership Team](PESOTeam.md)
 
 **Slides:** [PESOMeeting1.pdf](../files/PESOMeeting1.pdf)
 
-**Video:** [Zoom Recording]()
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/aWgl3dscmeFwisIob1a24O7BKEiA1R4sqxVYqIGUeyXiLkbfqQSg4GyMcwFlMNIr.V1O6AKhqEaFcttrG)
