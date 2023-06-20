@@ -21,6 +21,6 @@ Panelists: [The PESO Leadership Team](PESOTeam.md)
 
 **Why attend:** To learn about the PESO post-ECP software-ecosystem sustainment project and current progress. To provide input, ask questions and make comments.
 
-**Slides:** [PESO-Panel1.pdf](../files/PESOMeeting1.pdf)
+**Slides:** [PESOMeeting1.pdf](../files/PESOMeeting1.pdf)
 
 **Video:** [Zoom Recording]()
