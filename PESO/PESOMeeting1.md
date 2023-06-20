@@ -14,11 +14,13 @@ The PESO team will give an overview of our plan for post-ECP software-ecosystem 
 
 All community members are welcome to join this event. Please help us create a plan that leads to post-ECP software-ecosystem sustainment success.
 
+- PESO Overview
+- 
 
 Panelists: [The PESO Leadership Team](PESOTeam.md)
 
 **Why attend:** To learn about the PESO post-ECP software-ecosystem sustainment project and current progress. To provide input, ask questions and make comments.
 
-**Slides:** [PESO-Panel1.pdf](../files/PESOMeeting1Panel.pdf)
+**Slides:** [PESO-Panel1.pdf](../files/PESOMeeting1.pdf)
 
 **Video:** [Zoom Recording]()
