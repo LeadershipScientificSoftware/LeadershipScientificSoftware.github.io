@@ -10,7 +10,7 @@ Panelists and their affiliations are:
 
 - Leah Silen, Executive Director, NumFOCUS
 - Suresh Marru, Director, Cyberinfrastructure Integration Research Center, Pervasive Technology Institute, Indiana University; Member, Apache Software Foundation; Vice President, Apache Airavata Project Management Committee 
-- Jim Zemlin, Executive Director/CEO, Linux Foundation
+- Michael Dolan, Senior Vice President and General Manager of Projects and Legal, Linux Foundation
 - Mike Milinkovitch, Executive Director, Eclipse Foundation
 
 **Why attend:** To learn about software foundations and their potential for supporting the sustainability of scientific computing software.
