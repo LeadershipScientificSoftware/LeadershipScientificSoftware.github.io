@@ -15,6 +15,8 @@ Panelists and their affiliations are:
 
 **Why attend:** To learn about software foundations and their potential for supporting the sustainability of scientific computing software.
 
+**Signup:** [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ)
+
 **Slides:** [LSSwMeeting14Panel.pdf](../files/LSSwMeeting14Panel.pdf) - TBA
 
 **Video:** [Zoom Recording]() - TBA
