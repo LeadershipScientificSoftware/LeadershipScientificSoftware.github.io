@@ -19,6 +19,6 @@ Panelists and their affiliations are:
 
 **Signup:** [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ)
 
-**Slides:** [LSSwMeeting14Panel.pdf](../files/LSSwMeeting14Panel.pdf) - TBA
+**Slides:** see links above for individual sets of slides
 
 **Video:** [Zoom Recording]() - TBA
