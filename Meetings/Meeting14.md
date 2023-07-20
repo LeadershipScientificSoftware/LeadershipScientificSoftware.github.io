@@ -11,8 +11,8 @@ Moderator: Daniel S. Katz, University of Illinois Urbana-Champaign and [Sustaina
 Panelists and their affiliations are:
 
 - Leah Silen, Executive Director, NumFOCUS
-- Suresh Marru, Member, Apache Software Foundation; Vice President, Apache Airavata Project Management Committee ([slides](../filesLSSW-meeting14-0-apache.pdf))
-- Michael Dolan, Senior Vice President and General Manager of Projects and Legal, Linux Foundation
+- Suresh Marru, Member, Apache Software Foundation; Vice President, Apache Airavata Project Management Committee ([slides](../filesLSSW-meeting14-2-apache.pdf))
+- Michael Dolan, Senior Vice President and General Manager of Projects and Legal, Linux Foundation ([slides](../filesLSSW-meeting14-3-linux.pdf))
 - Mike Milinkovitch, Executive Director, Eclipse Foundation
 
 **Why attend:** To learn about software foundations and their potential for supporting the sustainability of scientific computing software.
