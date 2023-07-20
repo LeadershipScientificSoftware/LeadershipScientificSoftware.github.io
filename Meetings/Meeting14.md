@@ -10,7 +10,7 @@ Moderator: Daniel S. Katz, University of Illinois Urbana-Champaign and [Sustaina
 
 Panelists and their affiliations are:
 
-- Leah Silen, Executive Director, NumFOCUS
+- Leah Silen, Executive Director, NumFOCUS ([slides](../files/LSSW-meeting14-1-numfocus.pdf))
 - Suresh Marru, Member, Apache Software Foundation; Vice President, Apache Airavata Project Management Committee ([slides](../files/LSSW-meeting14-2-apache.pdf))
 - Michael Dolan, Senior Vice President and General Manager of Projects and Legal, Linux Foundation ([slides](../files/LSSW-meeting14-3-linux.pdf))
 - Mike Milinkovitch, Executive Director, Eclipse Foundation  ([slides](../files/LSSW-meeting14-4-eclipse.pdf))
