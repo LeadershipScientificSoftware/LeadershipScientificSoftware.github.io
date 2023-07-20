@@ -13,12 +13,12 @@ Panelists and their affiliations are:
 - Leah Silen, Executive Director, NumFOCUS
 - Suresh Marru, Member, Apache Software Foundation; Vice President, Apache Airavata Project Management Committee ([slides](../files/LSSW-meeting14-2-apache.pdf))
 - Michael Dolan, Senior Vice President and General Manager of Projects and Legal, Linux Foundation ([slides](../files/LSSW-meeting14-3-linux.pdf))
-- Mike Milinkovitch, Executive Director, Eclipse Foundation
+- Mike Milinkovitch, Executive Director, Eclipse Foundation  ([slides](../files/LSSW-meeting14-4-eclipse.pdf))
 
 **Why attend:** To learn about software foundations and their potential for supporting the sustainability of scientific computing software.
 
 **Signup:** [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ)
 
-**Slides:** [LSSwMeeting14Panel.pdf](../files/LSSwMeeting14Panel.pdf) - TBA
+**Slides:** see links above for individual sets of slides
 
 **Video:** [Zoom Recording]() - TBA
