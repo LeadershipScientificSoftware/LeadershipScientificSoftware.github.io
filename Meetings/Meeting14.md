@@ -21,4 +21,4 @@ Panelists and their affiliations are:
 
 **Slides:** see links above for individual sets of slides
 
-**Video:** [Zoom Recording]() - TBA
+**Video:** [Zoom Recording](https://exascaleproject.zoomgov.com/rec/share/z-YaybFvBKNNHEhBZef2w4XU7g1h94y5x7OaN7nHS-fb09Y9UcSJcO41nraaiG_Y.5ONmMo6KwyQjs3vh?startTime=1689879675000)
