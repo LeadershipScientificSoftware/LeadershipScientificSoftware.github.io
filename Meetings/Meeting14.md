@@ -6,6 +6,8 @@
 
 **Description:** Open-source Software Foundations such as Linux Foundation, Apache Foundation, Eclipse Foundation and NumFOCUS provide business models that create important collaboration and funding opportunities for open-source software projects in order to enable them to grow their communities and strive to become more sustainable. The OSSF seedling is planning to use a foundation-like approach to address software sustainability needs of the ECP projects and the broader research software community. In addition to setting up a new organization, other approaches being considered by OSSF include leveraging an existing foundation or being  hosted by an existing foundation. During this panel, we will engage with representatives of these foundations in a discussion about how foundations are essential to the sustainability of open-source software. In opening remarks, the panelists will briefly describe their foundations and how they do and can support software such as individual ECP projects. They will also discuss how they could work with ECP projects collectively to help further our sustainability efforts. Then we will open up the discussion for Q&A, including from ECP software developers and other members of the ECP stakeholder community.
 
+Moderator: Daniel S. Katz, University of Illinois Urbana-Champaign and [Sustainable Research Software Institute (SRSI)](https://software4science.org) project
+
 Panelists and their affiliations are:
 
 - Leah Silen, Executive Director, NumFOCUS
