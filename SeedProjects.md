@@ -18,7 +18,7 @@ To learn the basics of each seed team, read their proposals
 - [STEP Proposal](files/STEP-Proposal.pdf)
 - [SWAS Proposal](files/WAS-Proposal.pdf)
 - [S4PST Proposal](files/S4PST-Proposal.pdf)
-- [OSSF Proposal](files/OSSF-Proposal.pdf)
+- [OSSF (SRSI) Proposal](files/OSSF-Proposal.pdf)
 
 ### Meet Seed Team Members at Upcoming Events
 
