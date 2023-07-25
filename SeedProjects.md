@@ -7,7 +7,7 @@ On Monday, April 3, 2023, the US Department of Energy Office of Advanced Scienti
 - [STEP: Sustainable Tools Ecosystem Project](https://ascr-step.org/)
 - [SWAS: Center for Sustaining Workflows and Application Services](https://swas.center/)
 - [S4PST: Sustainability for Node Level Programming Systems and Tools - TBA]()
-- [OSSF: Open Scientific Software Foundation](https://software4science.org)
+- [SRSI: Sustainable Research Software Institute](https://software4science.org)
 
 ### Seed Proposals
 
