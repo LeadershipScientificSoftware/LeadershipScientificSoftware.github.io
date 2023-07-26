@@ -5,17 +5,16 @@
 ## Quick links
 - [LSSw Town Halls](LSSwTownHalls.md)
    - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- [Science Impact and PESO: PESO Overview, Q&A, June 20, 2023, 3 - 4:30 pm ET](PESO/PESOMeeting1.md)
-   - [Direct link to PESO Overview Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJIsc-itrjMtE9gQwa5hO3HxoqbvJw0nwyo).
-- [Details of Meeting 14, July 20, 2023, 3 - 4:30 pm ET, _Software Foundations_](Meetings/Meeting14.md)
+- **Note:** No LSSw meeting in August 2023.  Next meeting is Thursday, September 21, 2023
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 
 ## Upcoming meetings
-- [Software Foundations](), July 20, 2023 
+- [TBD](), September 21, 2023 
 
 ## Previous meetings
+- [Slides and video from Meeting 14](Meetings/Meeting14.md)
 - [Slides and video from Meeting 13](Meetings/Meeting13.md)
 - [Slides and video from Meeting 12](Meetings/Meeting12.md)
 - [Slides and video from Meeting 11](Meetings/Meeting11.md)
