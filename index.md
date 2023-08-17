@@ -5,7 +5,7 @@
 ## Quick links
 - [LSSw Town Halls](LSSwTownHalls.md)
    - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- **Note:** No LSSw meeting in August 2023.  Next meeting is Thursday, September 21, 2023
+- **Note: No LSSw meeting in August 2023.  Next meeting is Thursday, September 21, 2023**
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
