@@ -36,3 +36,4 @@ We hope that the discussions during the town hall events will grow the leadershi
 | May 18, 2023| 3 - 4:30 pm ET | Promoting inclusive and equitable research | [Meeting 12](Meetings/Meeting12.md)
 | Jun 15, 2023| 3 - 4:30 pm ET | Updates from Post-ECP Seed Project Community Outreach | [Meeting 13](Meetings/Meeting13.md)
 | Jul 20, 2023| 3 - 4:30 pm ET | Software Foundations: A Panel Discussion | [Meeting 14](Meetings/Meeting14.md)
+| Sep 21, 2023| 3 - 4:30 pm ET | Software Ecosystem Business Models: A Panel Discussion | [Meeting 15](Meetings/Meeting15.md)

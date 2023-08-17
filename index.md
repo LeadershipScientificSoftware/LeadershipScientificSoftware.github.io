@@ -11,7 +11,7 @@
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 
 ## Upcoming meetings
-- [TBD](), September 21, 2023 
+- [Software Ecosystem Business Models](), September 21, 2023 
 
 ## Previous meetings
 - [Slides and video from Meeting 14](Meetings/Meeting14.md)
