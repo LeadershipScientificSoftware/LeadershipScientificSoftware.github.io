@@ -3,9 +3,9 @@
 *The LSSw portal is dedicated to building community and understanding around the development and sustainable delivery of leadership scientific software.*
 
 ## Quick links
+- **Note: Because of the intense planning process in DOE right now through mid October, followed by SC23 and the winter holidays, we are suspending LSSw Town Halls until January 2024**
 - [LSSw Town Halls](LSSwTownHalls.md)
    - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- **Note: Because of the intense planning process in DOE right now through mid October, followed by SC23 and the winter holidays, we are suspending LSSw Town Halls until January 2024**
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
