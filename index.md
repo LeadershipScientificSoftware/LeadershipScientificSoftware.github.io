@@ -5,13 +5,13 @@
 ## Quick links
 - [LSSw Town Halls](LSSwTownHalls.md)
    - [Direct link to Town Hall Zoom Signup Page](https://exascaleproject.zoomgov.com/meeting/register/vJItduGrqDMpEiSpPgjLeb3IgZsSkw-oZcQ).  Single signup for second series of meetings.
-- **Note: No LSSw meeting in August 2023.  Next meeting is Thursday, September 21, 2023**
+- **Note: Because of the intense planning process in DOE right now through mid October, followed by SC23 and the winter holidays, we are suspending LSSw Town Halls until January 2024**
 - [DOE "Seed" Projects Information](SeedProjects.md)
 - [FAQs](FAQ.md)
 - [Summary of Past and Upcoming Meetings](LSSwTownHalls.md)
 
 ## Upcoming meetings
-- [Software Ecosystem Business Models](), September 21, 2023 
+- [TBD](), January 18, 2024 
 
 ## Previous meetings
 - [Slides and video from Meeting 14](Meetings/Meeting14.md)

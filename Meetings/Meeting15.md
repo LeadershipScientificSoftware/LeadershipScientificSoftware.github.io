@@ -1,10 +1,10 @@
 ## Meeting 15
 
-**Time:** Thursday, September 21, 2023, 3 - 4:30 pm ET
+**Time:** Thursday, October 19, 2023, 3 - 4:30 pm ET
 
-**Topic:** Software Ecosystem Business Models
+**Topic:** TBD
 
-**Description:** Funding sources and processes are diverse and complicated.  In this panel discussion, we will discuss strategies for determining scope, budget, and schedule.
+**Description:** TBD 
 
 Moderator: TBD
 
