@@ -1,6 +1,6 @@
 ## Meeting 15
 
-**Time:** Thursday, October 19, 2023, 3 - 4:30 pm ET
+**Time:** Thursday, January 18, 2024, 3 - 4:30 pm ET
 
 **Topic:** TBD
 
